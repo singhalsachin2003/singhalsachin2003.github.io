@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.otclearn.app",
+      "sha256_cert_fingerprints": ["F4:FB:0F:1D:AC:1B:05:09:5F:5A:8B:89:9A:6B:67:FB:07:94:35:BF:BC:A8:C0:06:A5:E5:A6:FC:21:AC:02:AF"]
+    }
+  }
+]
