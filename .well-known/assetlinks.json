@@ -1,10 +1,27 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.otclearn.app",
-      "sha256_cert_fingerprints": ["F4:FB:0F:1D:AC:1B:05:09:5F:5A:8B:89:9A:6B:67:FB:07:94:35:BF:BC:A8:C0:06:A5:E5:A6:FC:21:AC:02:AF"]
+      "sha256_cert_fingerprints": [
+        "F4:FB:0F:1D:AC:1B:05:09:5F:5A:8B:89:9A:6B:67:FB:07:94:35:BF:BC:A8:C0:06:A5:E5:A6:FC:21:AC:02:AF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.cornerstone.study",
+      "sha256_cert_fingerprints": [
+        "A0:50:DF:A5:DE:F5:C8:D5:E7:AF:B6:93:23:30:F4:E3:4F:18:7A:F1:92:0C:09:E4:4D:80:05:28:D7:6A:50:9D",
+        "E7:CD:2E:98:74:0C:D8:46:2C:92:E7:80:2C:D2:85:14:B1:E8:ED:B6:8E:C0:CE:B3:84:91:49:EA:26:03:2D:A6"
+      ]
     }
   }
 ]
