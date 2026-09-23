@@ -1,0 +1,9 @@
+# Served from the host root because that is the only place a robots.txt is
+# honoured — a copy under /CornerStone/ or /OTC_Learn/ is ignored, the same
+# reason assetlinks.json has to live here rather than in either app's repo.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://singhalsachin2003.github.io/CornerStone/sitemap.xml
+Sitemap: https://singhalsachin2003.github.io/OTC_Learn/sitemap.xml
