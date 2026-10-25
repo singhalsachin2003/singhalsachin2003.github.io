@@ -35,16 +35,3 @@ defaults:
       layout: otc_learn
       app_title: OTC Learn
       app_description: Learn OTC derivatives — 36 products, short lessons and quizzes.
-  # Staging copy for checking a migration before it goes live. Safe to delete.
-  - scope:
-      path: "preview/CornerStone"
-    values:
-      layout: preview-cornerstone
-      app_title: Cornerstone
-      app_description: A study app for CFA and FRM candidates. Nothing leaves your device.
-  - scope:
-      path: "preview/OTC_Learn"
-    values:
-      layout: preview-otc_learn
-      app_title: OTC Learn
-      app_description: Learn OTC derivatives — 36 products, short lessons and quizzes.

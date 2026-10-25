@@ -1,0 +1,106 @@
+{% assign app_url = page.url | remove_first: '/OTC_Learn' %}<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% if page.title and page.title != page.app_title %}{{ page.title | strip_html | escape }} · {{ page.app_title }}{% else %}{{ page.app_title }}{% endif %}</title>
+<meta name="description" content="{{ page.description | default: page.app_description | strip_html | strip_newlines | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta name="theme-color" content="#181611">
+<link rel="icon" type="image/png" sizes="64x64" href="{{ '/OTC_Learn/assets/favicon-64.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/OTC_Learn/assets/apple-touch-icon.png' | relative_url }}">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="OTC Learn">
+<meta property="og:title" content="{{ page.title | default: page.app_title | strip_html | escape }}">
+<meta property="og:description" content="{{ page.description | default: page.app_description | strip_html | strip_newlines | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ '/OTC_Learn/assets/og.jpg' | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@otclearn">
+<link rel="preload" href="{{ '/OTC_Learn/assets/pjs-800.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="{{ '/OTC_Learn/assets/site.css' | relative_url }}">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+{% assign seg = app_url | split: '/' %}
+<div style="background:#0B100D;color:#C7CEC8;font:600 13px/1 system-ui,-apple-system,sans-serif;padding:10px 16px;text-align:center"><a href="https://groundlearn.com/" style="color:#F3EFE6;text-decoration:none">← Groundlearn home</a><span style="opacity:.5;margin:0 10px">·</span><a href="https://groundlearn.com/learn/" style="color:#C7CEC8;text-decoration:none">Free guides</a></div>
+<header class="bar">
+  <div class="wrap">
+    <a class="brand" href="{{ '/OTC_Learn/' | relative_url }}"><img src="{{ '/OTC_Learn/assets/icon-192.png' | relative_url }}" alt="" width="34" height="34">OTC Learn</a>
+    <nav class="nav" aria-label="Main">
+      <a href="{{ '/OTC_Learn/#catalogue' | relative_url }}"{% if seg[1] == 'category' or seg[1] == 'product' %} aria-current="page"{% endif %}>Catalogue</a>
+      <a href="{{ '/OTC_Learn/glossary/' | relative_url }}"{% if seg[1] == 'glossary' %} aria-current="page"{% endif %}>Glossary</a>
+      <a href="https://whatsapp.com/channel/0029Vb9Pn6h9hXF2IeUaPU3K">WhatsApp</a>
+      <a class="cta" href="{{ '/OTC_Learn/get/?c=web' | relative_url }}">Get the app</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap page">
+  <main id="main" class="prose">
+{{ content }}
+{% capture gl_keys %}{% case app_url %}{% when '/product/irs/' %}swap|cva{% when '/product/basisswap/' %}swap{% when '/product/xccy/' %}swap|fva{% when '/product/fra/' %}swap{% when '/product/swaption/' %}swap{% when '/product/xva/' %}cva|fva|im{% when '/product/collateral/' %}im|fva{% when '/product/clearing/' %}im{% when '/product/isda/' %}im|cva{% when '/product/valueatrisk/' %}var|es{% when '/product/dv01/' %}dur|swap{% when '/product/cds/' %}cva{% when '/product/marking/' %}cva|fva{% when '/glossary/' %}swap|cva|fva|im|var|dur{% endcase %}{% endcapture %}{% assign gl_keys = gl_keys | strip %}{% if gl_keys != '' %}<aside class="gl-guides" style="margin:36px 0 8px;padding:20px 22px;border:1px solid var(--line);border-radius:14px;background:var(--surface)"><p style="margin:0 0 4px;font:700 12px/1.3 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)">Free worked examples</p><p style="margin:0 0 10px;color:var(--body)">Step-by-step guides with real numbers on Groundlearn:</p><ul style="margin:0;padding-left:20px">{% assign gl_list = gl_keys | split: '|' %}{% for gk in gl_list %}{% case gk %}{% when 'swap' %}<li><a href="https://groundlearn.com/learn/interest-rate-swap-valuation/">Interest rate swap valuation: discount factors, par rate and a worked example</a></li>{% when 'cva' %}<li><a href="https://groundlearn.com/learn/credit-valuation-adjustment/">Credit valuation adjustment (CVA): definition, formula and a worked example</a></li>{% when 'fva' %}<li><a href="https://groundlearn.com/learn/funding-valuation-adjustment/">Funding valuation adjustment (FVA): formula and a worked example</a></li>{% when 'im' %}<li><a href="https://groundlearn.com/learn/initial-margin-umr/">Uncleared margin rules (UMR) and initial margin: phases, thresholds and SIMM</a></li>{% when 'var' %}<li><a href="https://groundlearn.com/learn/var-square-root-of-time/">Value at Risk: the square-root-of-time rule</a></li>{% when 'es' %}<li><a href="https://groundlearn.com/learn/expected-shortfall-vs-var/">Expected shortfall versus VaR: what changes in the tail</a></li>{% when 'dur' %}<li><a href="https://groundlearn.com/learn/duration-and-convexity/">Duration and convexity: formulas and how good the approximation is</a></li>{% endcase %}{% endfor %}</ul></aside>{% endif %}
+  </main>
+  <aside class="side" aria-label="Get the app">
+    <div class="card">
+      <p class="k">Free on Google Play</p>
+      <h2>Learn this one product at a time</h2>
+      <p>Five-step lessons, worked examples and quizzes that bring back what you miss. Works offline, no ads, no tracking.</p>
+      <a class="btn gold" href="{{ '/OTC_Learn/get/?c=web' | relative_url }}">Get OTC Learn</a>
+      <a class="btn ghost" href="https://whatsapp.com/channel/0029Vb9Pn6h9hXF2IeUaPU3K">Desk quiz on WhatsApp</a>
+      <div class="qr"><img src="{{ '/OTC_Learn/assets/qr-web.svg' | relative_url }}" alt="QR code linking to OTC Learn on Google Play" width="76" height="76">Scan to install on Android</div>
+    </div>
+    <nav class="links" aria-label="Asset classes">
+      <p>Asset classes</p>
+      <ul>
+        <li><a href="{{ '/OTC_Learn/category/ir/' | relative_url }}">Interest Rate</a></li>
+        <li><a href="{{ '/OTC_Learn/category/fx/' | relative_url }}">FX</a></li>
+        <li><a href="{{ '/OTC_Learn/category/credit/' | relative_url }}">Credit</a></li>
+        <li><a href="{{ '/OTC_Learn/category/equity/' | relative_url }}">Equity</a></li>
+        <li><a href="{{ '/OTC_Learn/category/commodity/' | relative_url }}">Commodity</a></li>
+        <li><a href="{{ '/OTC_Learn/category/foundations/' | relative_url }}">Market Foundations</a></li>
+        <li><a href="{{ '/OTC_Learn/category/exotics/' | relative_url }}">Exotics</a></li>
+        <li><a href="{{ '/OTC_Learn/category/risk/' | relative_url }}">Risk &amp; the Greeks</a></li>
+        <li><a href="{{ '/OTC_Learn/category/cases/' | relative_url }}">Case Studies</a></li>
+        <li><a href="{{ '/OTC_Learn/category/alt/' | relative_url }}">Alternative Underlyings</a></li>
+        <li><a href="{{ '/OTC_Learn/glossary/' | relative_url }}">Glossary, A to Z</a></li>
+      </ul>
+    </nav>
+  </aside>
+</div>
+
+<a class="mobile-cta" href="{{ '/OTC_Learn/get/?c=web' | relative_url }}">Get OTC Learn free on Google Play</a>
+<footer>
+  <div class="wrap">
+    <ul class="foot">
+      <li><a href="{{ '/OTC_Learn/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/OTC_Learn/get/?c=web' | relative_url }}">Google Play</a></li>
+      <li><a href="https://groundlearn.com/otc-learn/">By Groundlearn</a></li>
+      <li><a href="https://x.com/otclearn">X</a></li>
+      <li><a href="https://www.instagram.com/otclearn/">Instagram</a></li>
+      <li><a href="https://www.youtube.com/@otclearn">YouTube</a></li>
+      <li><a href="{{ '/OTC_Learn/privacy/' | relative_url }}">Privacy policy</a></li>
+      <li><a href="{{ '/OTC_Learn/third-party-notices/' | relative_url }}">Third-party notices</a></li>
+      <li><a href="mailto:contactgroundlearn@gmail.com">Support</a></li>
+    </ul>
+    <p>Educational content only. Nothing here is financial advice, an offer to trade, or a recommendation to buy or sell any instrument.</p>
+  </div>
+</footer>
+<script>
+/* A bio link such as ?c=x keeps its channel through every install button on the site.
+   The tag lives only in this tab's sessionStorage and only ever reaches Google Play. */
+(function () {
+  var ok = ['ig', 'x', 'yt', 'wa', 'mail'], c = '';
+  try {
+    c = (new URLSearchParams(location.search).get('c') || '').toLowerCase();
+    if (ok.indexOf(c) > -1) sessionStorage.setItem('otc-channel', c);
+    else c = sessionStorage.getItem('otc-channel') || '';
+  } catch (e) {}
+  if (ok.indexOf(c) < 0) return;
+  document.querySelectorAll('a[href*="get/?c=web"]').forEach(function (a) {
+    a.setAttribute('href', a.getAttribute('href').replace('c=web', 'c=' + c));
+  });
+})();
+</script>
+</body>
+</html>
