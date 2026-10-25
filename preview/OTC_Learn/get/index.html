@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Get OTC Learn</title>
+<link rel="canonical" href="https://play.google.com/store/apps/details?id=com.otclearn.app">
+<meta name="robots" content="noindex">
+<style>
+  :root { color-scheme: only light; }
+  body { margin:0; min-height:100vh; display:grid; place-items:center;
+         background:#EAE8E0; color:#181611; text-align:center; padding:24px;
+         font:400 16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  a { color:#2A75BA; font-weight:600; }
+  p { max-width:34ch; }
+</style>
+</head>
+<body>
+  <main>
+    <p>Taking you to OTC Learn on Google Play&hellip;</p>
+    <p><a id="play" href="https://play.google.com/store/apps/details?id=com.otclearn.app">Open Google Play</a></p>
+  </main>
+  <script>
+    (function () {
+      var base = "https://play.google.com/store/apps/details?id=com.otclearn.app";
+      var ok = ["ig", "x", "yt", "wa", "mail", "web"];
+      var c = (new URLSearchParams(location.search).get("c") || "").toLowerCase();
+      var url = ok.indexOf(c) > -1 ? base + "&listing=" + c : base;
+      var a = document.getElementById("play");
+      if (a) a.href = url;
+      location.replace(url);
+    })();
+  </script>
+</body>
+</html>

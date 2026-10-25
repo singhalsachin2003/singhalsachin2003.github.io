@@ -1,0 +1,88 @@
+# Delete your Cornerstone account
+
+**App:** Cornerstone: Exam Study · **Developer:** Sachin Singhal
+
+An account in Cornerstone is optional. It exists only to back your study progress up so that
+a reinstall or a new phone does not start you over. If you have never created one, there is
+nothing to delete — nothing about your studying has ever left your device.
+
+## How to delete it, in the app
+
+Open Cornerstone and go to **Profile → Account → Delete account**, then confirm. The account
+and everything backed up under it are removed immediately, and the app returns to its
+signed-out state with your progress still on the device.
+
+This is the whole process and it needs no email.
+
+## Or by email
+
+If you no longer have the app installed, email **contactgroundlearn@gmail.com** from the
+address your account uses, with the subject **Delete my account**. You will get a reply
+confirming the deletion. If you email from a different address, you will be asked to confirm
+ownership of the account address first — otherwise anyone could delete anyone's data by
+knowing their email address.
+
+**Signing out is not deleting.** The app offers both, and signing out leaves the data on your
+device exactly as it is and leaves the backup in place.
+
+## Delete your progress without deleting your account
+
+If you only want a clean run at the syllabus, you do not have to delete anything permanent.
+
+In the app, go to **Profile → Account → Reset progress**, then confirm. That erases, from this
+device:
+
+- topic mastery and card progress
+- bookmarked cards and questions
+- your review queue
+- your study day history and streak
+- your question and accuracy counts
+
+**Your account is not touched, and neither is your subscription.** If you are signed in, the
+backup is overwritten the next time this device syncs, so the reset reaches the copy held on
+our side as well. There is no confirmation email and nothing to wait for.
+
+It cannot be undone, which is why it asks twice.
+
+## What is deleted
+
+Everything held on our side, which is the account and the study data backed up under it:
+
+| Deleted                                                                |
+| ---------------------------------------------------------------------- |
+| Your email address and, if you set one, your display name              |
+| Topic mastery percentages                                              |
+| Your review queue — question identifiers and their due dates           |
+| Bookmarked cards and questions                                         |
+| Study day history and streak                                           |
+| Question and accuracy counts                                           |
+| App settings that were backed up (reminder, timed quizzes, list style) |
+
+The account and its data are removed within **30 days** of the request. Copies inside routine
+encrypted database backups are overwritten as those backups age out, within a further **90
+days**, after which nothing remains.
+
+## What is not deleted, and why
+
+**Anything stored on your phone.** The app keeps your progress locally whether or not you
+have an account, and deleting your account does not remove that copy. You can clear it
+yourself with **Profile → Account → Reset progress** (above), or by deleting the app's storage
+from Android's system settings, or by uninstalling the app.
+
+**Your subscription.** Cornerstone Plus is billed by Google Play, not by us, and deleting
+your account does **not** cancel it. Cancel it in the Play Store app under Payments and
+subscriptions, or at <https://play.google.com/store/account/subscriptions>. An account and a
+subscription are separate things — a subscription follows your Google Play account, not a
+Cornerstone account, and works with no Cornerstone account at all.
+
+**Your purchase history at Google.** Records of a purchase are held by Google Play under
+Google's own policies, and are not ours to delete. RevenueCat, which checks whether a
+subscription is active, holds the purchase receipt Google issued together with an anonymous
+identifier it generates for the installation. Neither is linked to a Cornerstone account, so
+deleting the account does not affect them; to have those removed as well, say so in the same
+email and they will be deleted too.
+
+## Related
+
+- [Privacy policy](PRIVACY.md) — what is collected, by whom, and why
+- Questions: **contactgroundlearn@gmail.com**

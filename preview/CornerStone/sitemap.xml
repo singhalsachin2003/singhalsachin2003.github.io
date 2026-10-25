@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /preview/CornerStone/sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign pages = site.html_pages | sort: "name" -%}
+{%- for p in pages -%}{%- assign h = p.url | slice: 0, 21 -%}{%- if h == '/preview/CornerStone/' and p.sitemap != false %}
+<url>
+<loc>{{ p.url | absolute_url | xml_escape }}</loc>
+</url>
+{%- endif -%}{%- endfor -%}
+{%- assign files = site.static_files | where: "extname", ".html" -%}
+{%- for f in files -%}{%- assign h = f.path | slice: 0, 21 -%}{%- if h == '/preview/CornerStone/' %}
+<url>
+<loc>{{ f.path | replace: '/index.html', '/' | absolute_url | xml_escape }}</loc>
+<lastmod>{{ f.modified_time | date_to_xmlschema }}</lastmod>
+</url>
+{%- endif -%}{%- endfor %}
+</urlset>

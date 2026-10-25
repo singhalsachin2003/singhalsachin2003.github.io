@@ -1,0 +1,50 @@
+# This is the user site for the account, and since the app repos went private it
+# also serves both apps' websites, at the URLs they always had:
+#   /CornerStone/  and  /OTC_Learn/
+# Their source still lives in each app's docs/ folder. Publish a change with
+#   node sync-app-site.mjs CornerStone ../CornerStone/docs
+#   node sync-app-site.mjs OTC_Learn   ../otc-learning-app/docs
+# then commit and push this repo. See README.md.
+
+url: https://singhalsachin2003.github.io
+baseurl: ""
+
+# Jekyll skips dot-folders, and /.well-known/assetlinks.json is what makes the
+# apps' App Links verify. This line replaces the old .nojekyll file — remove it
+# and App Links break with no error anywhere.
+include:
+  - .well-known
+
+exclude:
+  - README.md
+  - build.py
+  - index.template.html
+  - sync-app-site.mjs
+  - out
+
+defaults:
+  - scope:
+      path: "CornerStone"
+    values:
+      layout: cornerstone
+      app_title: Cornerstone
+      app_description: A study app for CFA and FRM candidates. Nothing leaves your device.
+  - scope:
+      path: "OTC_Learn"
+    values:
+      layout: otc_learn
+      app_title: OTC Learn
+      app_description: Learn OTC derivatives — 36 products, short lessons and quizzes.
+  # Staging copy for checking a migration before it goes live. Safe to delete.
+  - scope:
+      path: "preview/CornerStone"
+    values:
+      layout: preview-cornerstone
+      app_title: Cornerstone
+      app_description: A study app for CFA and FRM candidates. Nothing leaves your device.
+  - scope:
+      path: "preview/OTC_Learn"
+    values:
+      layout: preview-otc_learn
+      app_title: OTC Learn
+      app_description: Learn OTC derivatives — 36 products, short lessons and quizzes.

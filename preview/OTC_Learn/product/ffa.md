@@ -1,0 +1,151 @@
+---
+title: "Freight Forward Agreement"
+description: "Hedging the cost of moving cargo, not the cargo"
+permalink: /preview/OTC_Learn/product/ffa/
+---
+
+# Freight Forward Agreement
+
+*Hedging the cost of moving cargo, not the cargo*
+
+A freight forward agreement is a cash-settled contract on the cost of shipping, referenced to a published freight index and settled against the average of that index over a month. Nothing is delivered and no ship is chartered. It lets an owner fix future earnings and a charterer fix a future cost, and it is the clearest example of a derivative on a service rather than on an asset.
+
+[Open in the app](/OTC_Learn/) · [Alternative Underlyings](/OTC_Learn/category/alt/) · intermediate
+
+Alternative Underlyings is part of the OTC Learn subscription. Everything the app shipped with — 36 products across six asset classes — stays free.
+
+## What the lesson covers
+
+1. What it is
+2. How it settles
+3. Why it’s used
+4. Basis risk
+5. Risks to watch
+
+## Key terms
+
+- **Freight index** — A daily published assessment of shipping rates, compiled from broker submissions, used as the settlement reference.
+- **Time charter average** — The average rate to hire a vessel class per day, the usual underlying for dry bulk contracts.
+- **Settlement average** — The mean of the index over the contract month, used instead of a single print so it cannot easily be moved.
+- **Vessel class** — A size category — Capesize, Panamax, Supramax — whose rates move together and define a contract.
+- **Route basis** — The gap between one ship’s actual economics and the index average the hedge references.
+- **Voyage charter** — Hiring a vessel for a specific cargo and route, priced per tonne, as opposed to per day.
+
+[Every key term, A to Z](/OTC_Learn/glossary/)
+
+## In practice
+
+Shipowners, commodity trading houses, mining companies and utilities all use freight forwards, most of them cleared. The market is small relative to the commodities it moves, which is why liquidity thins quickly outside the nearest contracts and the largest vessel classes.
+
+## Read next
+
+- [Commodity Swap](/OTC_Learn/product/cmswap/) — Fixed price for floating market price
+- [Commodity Forward](/OTC_Learn/product/cmfwd/) — Agree a price today for delivery later
+- [Weather Swap](/OTC_Learn/product/weather/) — A payout driven by temperature, not price
+
+In the app, Freight Forward Agreement carries a five-step lesson, a worked example and a bank of twelve questions drawn differently every sitting.
+
+[Get OTC Learn on Google Play](/OTC_Learn/get/?c=web)
+
+Educational content only. Nothing here is financial advice, an offer to trade, or a recommendation to buy or sell any instrument.
+
+<script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": "Freight Forward Agreement",
+    "description": "Hedging the cost of moving cargo, not the cargo",
+    "abstract": "A freight forward agreement is a cash-settled contract on the cost of shipping, referenced to a published freight index and settled against the average of that index over a month. Nothing is delivered and no ship is chartered. It lets an owner fix future earnings and a charterer fix a future cost, and it is the clearest example of a derivative on a service rather than on an asset.",
+    "articleSection": "Alternative Underlyings",
+    "inLanguage": "en",
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": "https://singhalsachin2003.github.io/OTC_Learn/product/ffa/",
+    "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ffa/",
+    "author": {
+      "@type": "Person",
+      "name": "Sachin Singhal"
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": "Sachin Singhal"
+    },
+    "about": {
+      "@type": "DefinedTerm",
+      "name": "Freight Forward Agreement",
+      "description": "Hedging the cost of moving cargo, not the cargo",
+      "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+    },
+    "proficiencyLevel": "intermediate"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTermSet",
+    "name": "Freight Forward Agreement — key terms",
+    "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ffa/",
+    "inLanguage": "en",
+    "hasDefinedTerm": [
+      {
+        "@type": "DefinedTerm",
+        "name": "Freight index",
+        "description": "A daily published assessment of shipping rates, compiled from broker submissions, used as the settlement reference.",
+        "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Time charter average",
+        "description": "The average rate to hire a vessel class per day, the usual underlying for dry bulk contracts.",
+        "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Settlement average",
+        "description": "The mean of the index over the contract month, used instead of a single print so it cannot easily be moved.",
+        "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Vessel class",
+        "description": "A size category — Capesize, Panamax, Supramax — whose rates move together and define a contract.",
+        "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Route basis",
+        "description": "The gap between one ship’s actual economics and the index average the hedge references.",
+        "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Voyage charter",
+        "description": "Hiring a vessel for a specific cargo and route, priced per tonne, as opposed to per day.",
+        "inDefinedTermSet": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "OTC Learn",
+        "item": "https://singhalsachin2003.github.io/OTC_Learn/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Alternative Underlyings",
+        "item": "https://singhalsachin2003.github.io/OTC_Learn/category/alt/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Freight Forward Agreement",
+        "item": "https://singhalsachin2003.github.io/OTC_Learn/product/ffa/"
+      }
+    ]
+  }
+]
+</script>
