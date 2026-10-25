@@ -73,7 +73,7 @@ D. A widening real interest differential only
 
 ### Question 4
 
-A country converges toward the steady state of countries with similar institutions and savings rates, but not toward all countries. This is best described as:
+Poorer countries that adopt the right institutional framework converge toward the income levels of richer members of their group, while countries without those institutions fall further behind. This is best described as:
 
 A. Absolute convergence  
 B. Conditional convergence  
@@ -83,7 +83,7 @@ D. Divergence
 <details markdown="1">
 <summary>Show the answer</summary>
 
-**C.** Club convergence describes convergence only within groups sharing institutional characteristics — the word "institutions" is the tell.
+**C.** Club convergence: countries converge only within a club defined by institutional features, and those outside it can fall behind. Conditional convergence instead turns on shared savings rates, population growth and technology.
 
 *Reading: Economics — Economic Growth, LOS 2.f*
 

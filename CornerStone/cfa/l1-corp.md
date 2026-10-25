@@ -66,15 +66,15 @@ A firm has a target capital structure of 40% debt and 60% equity, a pre-tax cost
 
 > w_d 40% · r_d 6% · w_e 60% · r_e 11% · t 25%
 
-A. 8.40%  
-B. 8.40% before tax only  
-C. 7.80%  
+A. 7.80%  
+B. 8.40%  
+C. 9.00%  
 D. 9.20%  
 
 <details markdown="1">
 <summary>Show the answer</summary>
 
-**A.** WACC = 0.40 × 6% × (1 − 0.25) + 0.60 × 11% = 1.80% + 6.60% = 8.40%. Only the debt component is tax-affected.
+**B.** WACC = 0.40 × 6% × (1 − 0.25) + 0.60 × 11% = 1.80% + 6.60% = 8.40%. Only the debt component is tax-affected; forgetting the tax shield gives 9.00%, the planted distractor.
 
 *Reading: Corporate Issuers — Capital Structure, LOS 6.b*
 

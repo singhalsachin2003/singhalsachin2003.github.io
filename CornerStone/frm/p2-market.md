@@ -57,7 +57,7 @@ D. Nothing without expected shortfall data
 <details markdown="1">
 <summary>Show the answer</summary>
 
-**C.** Nine breaches against 2.5 expected is far more than chance would suggest — the model understates risk and falls into the Basel red zone.
+**C.** Nine breaches against 2.5 expected is far more than chance would suggest — the model understates risk. It sits at the top of the Basel yellow zone (5–9 exceptions); ten or more would be red.
 
 *Reading: Market Risk — Backtesting VaR*
 
