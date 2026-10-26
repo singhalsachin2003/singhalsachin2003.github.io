@@ -1,14 +1,14 @@
 ---
 title: "Risk & the Greeks"
-description: "How a desk measures what it is holding — DV01, the option Greeks, spread and default risk, the daily explain and value at risk."
+description: "How a desk measures what it is holding — DV01, the Greeks, the daily explain and value at risk — and how the bank verifies, margins and capitalises it: IPV, UMR, SIMM, CCP margin and SA-CCR."
 permalink: /OTC_Learn/category/risk/
 ---
 
 # Risk & the Greeks
 
-How a desk measures what it is holding — DV01, the option Greeks, spread and default risk, the daily explain and value at risk.
+How a desk measures what it is holding — DV01, the Greeks, the daily explain and value at risk — and how the bank verifies, margins and capitalises it: IPV, UMR, SIMM, CCP margin and SA-CCR.
 
-6 products, each with a five-step lesson, a worked example and a bank of twelve questions.
+12 products, each with a five-step lesson, a worked example and a bank of twelve questions.
 
 Risk & the Greeks is part of the OTC Learn subscription; the 36 products the app shipped with are free.
 
@@ -18,6 +18,12 @@ Risk & the Greeks is part of the OTC Learn subscription; the 36 products the app
 - [CS01 and Jump to Default](/OTC_Learn/product/cs01/) — Spread risk and default risk are not the same number
 - [P&L Attribution](/OTC_Learn/product/pnlexplain/) — Yesterday’s profit, accounted for line by line
 - [Value at Risk](/OTC_Learn/product/valueatrisk/) — One number for tomorrow’s loss, and what it leaves out
+- [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/) — Checking the marks, and holding capital for doubt
+- [The Uncleared Margin Rules](/OTC_Learn/product/umr/) — Who must post initial margin, and when
+- [ISDA SIMM](/OTC_Learn/product/simm/) — The model behind uncleared initial margin
+- [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/) — When two SIMM numbers disagree
+- [CCP Margin Models](/OTC_Learn/product/ccpmargin/) — How a clearing house sizes its margin
+- [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/) — The capital a bank holds against its counterparties
 
 [Get OTC Learn on Google Play](/OTC_Learn/get/?c=web)
 
@@ -27,7 +33,7 @@ Risk & the Greeks is part of the OTC Learn subscription; the 36 products the app
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Risk & the Greeks",
-    "description": "How a desk measures what it is holding — DV01, the option Greeks, spread and default risk, the daily explain and value at risk.",
+    "description": "How a desk measures what it is holding — DV01, the Greeks, the daily explain and value at risk — and how the bank verifies, margins and capitalises it: IPV, UMR, SIMM, CCP margin and SA-CCR.",
     "url": "https://singhalsachin2003.github.io/OTC_Learn/category/risk/",
     "inLanguage": "en",
     "isAccessibleForFree": true,
@@ -37,7 +43,7 @@ Risk & the Greeks is part of the OTC Learn subscription; the 36 products the app
     },
     "mainEntity": {
       "@type": "ItemList",
-      "numberOfItems": 6,
+      "numberOfItems": 12,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -80,6 +86,48 @@ Risk & the Greeks is part of the OTC Learn subscription; the 36 products the app
           "name": "Value at Risk",
           "description": "One number for tomorrow’s loss, and what it leaves out",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/valueatrisk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Price Verification and Prudent Valuation",
+          "description": "Checking the marks, and holding capital for doubt",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/prudentval/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "The Uncleared Margin Rules",
+          "description": "Who must post initial margin, and when",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/umr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "ISDA SIMM",
+          "description": "The model behind uncleared initial margin",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/simm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "IM Disputes and Reconciliation",
+          "description": "When two SIMM numbers disagree",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/imrecon/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "CCP Margin Models",
+          "description": "How a clearing house sizes its margin",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ccpmargin/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "SA-CCR and CVA Capital",
+          "description": "The capital a bank holds against its counterparties",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/saccr/"
         }
       ]
     }

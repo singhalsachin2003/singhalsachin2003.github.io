@@ -1,10 +1,10 @@
 ---
-title: "Portfolio Management — CFA Level I sample questions"
-description: "Portfolio Management: weight band, learning modules and 5 worked sample questions for CFA Level I candidates."
+title: "Portfolio Construction — CFA Level I sample questions"
+description: "Portfolio Construction: weight band, learning modules and 5 worked sample questions for CFA Level I candidates."
 permalink: /CornerStone/cfa/l1-pm/
 ---
 
-# Portfolio Management
+# Portfolio Construction
 
 *CFA® Level I, published weight 8–12%.* Risk and return, the CAPM, IPS construction, behavioural biases.
 

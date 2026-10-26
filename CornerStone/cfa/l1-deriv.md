@@ -6,7 +6,7 @@ permalink: /CornerStone/cfa/l1-deriv/
 
 # Derivatives
 
-*CFA® Level I, published weight 5–8%.* Forwards, futures, swaps, options and arbitrage-free pricing.
+*CFA® Level I, published weight 6–9%.* Forwards, futures, swaps, options and arbitrage-free pricing.
 
 ## What the outline covers
 
@@ -14,7 +14,7 @@ permalink: /CornerStone/cfa/l1-deriv/
 - Forward Commitment and Contingent Claim Features and Instruments
 - Derivative Benefits, Risks, and Issuer and Investor Uses
 - Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives
-- Pricing and Valuation of Forward Contracts
+- Pricing and Valuation of Forward Contracts and for an Underlying with Varying Maturities
 - Pricing and Valuation of Futures Contracts
 - Pricing and Valuation of Interest Rate and Other Swaps
 - Pricing and Valuation of Options

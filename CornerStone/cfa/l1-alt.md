@@ -6,7 +6,7 @@ permalink: /CornerStone/cfa/l1-alt/
 
 # Alternative Investments
 
-*CFA® Level I, published weight 7–10%.* Private capital, real estate, natural resources, hedge funds, digital assets.
+*CFA® Level I, published weight 6–9%.* Private capital, real estate, natural resources, hedge funds, digital assets.
 
 ## What the outline covers
 

@@ -1,10 +1,10 @@
 ---
-title: "Corporate Issuers — CFA Level I sample questions"
-description: "Corporate Issuers: weight band, learning modules and 5 worked sample questions for CFA Level I candidates."
+title: "Corporate Finance — CFA Level I sample questions"
+description: "Corporate Finance: weight band, learning modules and 5 worked sample questions for CFA Level I candidates."
 permalink: /CornerStone/cfa/l1-corp/
 ---
 
-# Corporate Issuers
+# Corporate Finance
 
 *CFA® Level I, published weight 6–9%.* Governance, working capital, capital allocation, capital structure.
 
@@ -38,7 +38,7 @@ D. +$1,137,000
 
 **B.** The five-year annuity factor at 10% is 3.7908, so PV = 300,000 × 3.7908 = $1,137,236. NPV = 1,137,236 − 1,000,000 ≈ +$137,000.
 
-*Reading: Corporate Issuers — Capital Investments and Capital Allocation, LOS 5.c*
+*Reading: Corporate Finance — Capital Investments and Capital Allocation, LOS 5.c*
 
 </details>
 
@@ -56,7 +56,7 @@ D. Reject both projects
 
 **B.** NPV measures the value added in currency terms and assumes reinvestment at the cost of capital, which is the economically defensible assumption.
 
-*Reading: Corporate Issuers — Capital Investments and Capital Allocation, LOS 5.d*
+*Reading: Corporate Finance — Capital Investments and Capital Allocation, LOS 5.d*
 
 </details>
 
@@ -76,7 +76,7 @@ D. 9.20%
 
 **B.** WACC = 0.40 × 6% × (1 − 0.25) + 0.60 × 11% = 1.80% + 6.60% = 8.40%. Only the debt component is tax-affected; forgetting the tax shield gives 9.00%, the planted distractor.
 
-*Reading: Corporate Issuers — Capital Structure, LOS 6.b*
+*Reading: Corporate Finance — Capital Structure, LOS 6.b*
 
 </details>
 
@@ -96,7 +96,7 @@ D. 135 days
 
 **B.** CCC = DOH + DSO − DPO = 60 + 45 − 30 = 75 days. This is the length of time cash is tied up in the operating cycle.
 
-*Reading: Corporate Issuers — Working Capital and Liquidity, LOS 4.c*
+*Reading: Corporate Finance — Working Capital and Liquidity, LOS 4.c*
 
 </details>
 
@@ -114,7 +114,7 @@ D. A regulatory arbitrage
 
 **B.** Both parties are owners, so it is a principal–principal conflict. The principal–agent problem sits between shareholders and managers.
 
-*Reading: Corporate Issuers — Corporate Governance, LOS 3.a*
+*Reading: Corporate Finance — Corporate Governance, LOS 3.a*
 
 </details>
 

@@ -1,12 +1,12 @@
 ---
 title: "OTC derivatives glossary: key terms A to Z"
-description: "358 OTC derivatives terms in plain English, from the 66 products in OTC Learn, each linked to the lesson that teaches it."
+description: "393 OTC derivatives terms in plain English, from the 72 products in OTC Learn, each linked to the lesson that teaches it."
 permalink: /OTC_Learn/glossary/
 ---
 
 # OTC derivatives glossary
 
-358 key terms from the 66 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
+393 key terms from the 72 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
 
 [0–9](#letter-num) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
@@ -26,6 +26,12 @@ In: [Crack Spread Swap](/OTC_Learn/product/crackspread/)
 
 ## A {#letter-a}
 
+### AANA {#aana}
+
+Average aggregate notional amount of a group’s uncleared derivatives, the test for being in scope for initial margin.
+
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
+
 ### Accrual factor {#accrual-factor}
 
 The fraction of days in the period on which the reference fixed inside the range.
@@ -37,6 +43,18 @@ In: [Range Accrual Note](/OTC_Learn/product/rangeacc/)
 The window whose ex-dividend dates count — conventionally a single calendar year.
 
 In: [Dividend Swap](/OTC_Learn/product/divswap/)
+
+### Additional valuation adjustment {#additional-valuation-adjustment}
+
+A prudent valuation deduction from CET1 capital, computed at 90% confidence for one of nine uncertainty sources.
+
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
+
+### Algorithmic differentiation {#algorithmic-differentiation}
+
+Computing sensitivities analytically through the pricing code, as opposed to bumping inputs and revaluing.
+
+In: [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/)
 
 ### Annual contract quantity {#annual-contract-quantity}
 
@@ -55,6 +73,12 @@ In: [Cash and Carry Basis](/OTC_Learn/product/cryptobasis/)
 The sum of the discount factors over the bond’s remaining life, which converts an upfront price difference into a running spread.
 
 In: [Asset Swap](/OTC_Learn/product/assetswap/)
+
+### Anti-procyclicality buffer {#anti-procyclicality-buffer}
+
+Extra margin, at least 25% under one EMIR option, collected in calm markets and released in stress.
+
+In: [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
 
 ### Asian settlement {#asian-settlement}
 
@@ -93,6 +117,12 @@ The rule turning a series of daily published prices into the single floating pri
 In: [Commodity Swap](/OTC_Learn/product/cmswap/)
 
 ## B {#letter-b}
+
+### BA-CVA and SA-CVA {#ba-cva-and-sa-cva}
+
+The basic and standardised approaches to capital for CVA risk under final Basel III.
+
+In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
 
 ### Backtesting exception {#backtesting-exception}
 
@@ -160,6 +190,12 @@ A swaption exercisable on any one of several agreed dates rather than on a singl
 
 In: [Swaption](/OTC_Learn/product/swaption/)
 
+### Bid–offer reserve {#bid-offer-reserve}
+
+A fair value adjustment for the cost of closing out the book’s net risk positions.
+
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
+
 ### Block trade {#block-trade}
 
 A trade above a published size threshold, permitted a short reporting delay so that publishing it does not itself move the market against whoever just dealt.
@@ -183,6 +219,12 @@ In: [Delta and Gamma](/OTC_Learn/product/delta/)
 The fixed rate that makes both legs settle at the same amount, and so the market’s implied average inflation for that maturity.
 
 In: [Inflation Swap](/OTC_Learn/product/infswap/)
+
+### Bucket {#bucket}
+
+The grouping within a risk class — a currency, a credit sector, an equity sector — inside which sensitivities are first aggregated.
+
+In: [ISDA SIMM](/OTC_Learn/product/simm/)
 
 ### Bump and revalue {#bump-and-revalue}
 
@@ -306,6 +348,12 @@ A repo lender’s demand for more security as the collateral falls, met by selli
 
 In: [Orange County, 1994](/OTC_Learn/product/orange/)
 
+### Concentration threshold {#concentration-threshold}
+
+The size above which a bucket’s weighted sensitivities are scaled up to reflect the cost of liquidating a large position.
+
+In: [ISDA SIMM](/OTC_Learn/product/simm/)
+
 ### Confidence level {#confidence-level}
 
 The quantile the measure is read at, commonly 97.5% or 99%.
@@ -414,6 +462,12 @@ The defined trigger — bankruptcy, failure to pay, restructuring and, for finan
 
 In: [Credit Default Swap](/OTC_Learn/product/cds/)
 
+### CRIF {#crif}
+
+Common Risk Interchange Format, the standard file of sensitivities that feeds SIMM and is exchanged between counterparties.
+
+In: [ISDA SIMM](/OTC_Learn/product/simm/)
+
 ### Cross-currency basis {#cross-currency-basis}
 
 The spread added to one floating leg of a floating-for-floating cross-currency swap, which covered interest rate parity implies should be zero and, for the dollar since 2008, persistently is not.
@@ -482,6 +536,12 @@ Profit recognised when a trade is booked, on a model price rather than an observ
 
 In: [P&L Attribution](/OTC_Learn/product/pnlexplain/)
 
+### Day-one P&L deferral {#day-one-p-l-deferral}
+
+Holding back profit on a trade valued with significant unobservable inputs until they become observable.
+
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
+
 ### Days to liquidate {#days-to-liquidate}
 
 How long a position would take to sell at normal volumes, and so how stale the price used to margin it is.
@@ -493,6 +553,12 @@ In: [Archegos, 2021](/OTC_Learn/product/archegos/)
 The mirror structure, selling a daily quantity above spot and geared into a rally.
 
 In: [Accumulator](/OTC_Learn/product/accum/)
+
+### Default fund {#default-fund}
+
+The mutualised resource, contributed by all members, used after the defaulter’s own margin and contribution.
+
+In: [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
 
 ### Default waterfall {#default-waterfall}
 
@@ -559,6 +625,12 @@ In: [Forward Rate Agreement](/OTC_Learn/product/fra/)
 A forced liquidation in which sellers compete, so the price achieved is far below the marked value.
 
 In: [Archegos, 2021](/OTC_Learn/product/archegos/)
+
+### Dispute tolerance {#dispute-tolerance}
+
+The difference, in amount or percentage, below which a call is accepted without investigation.
+
+In: [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/)
 
 ### Distillate {#distillate}
 
@@ -702,6 +774,12 @@ In: [P&L Attribution](/OTC_Learn/product/pnlexplain/)
 
 ## F {#letter-f}
 
+### Fair value hierarchy {#fair-value-hierarchy}
+
+IFRS 13’s Levels 1 to 3, classifying positions by how observable their valuation inputs are.
+
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
+
 ### Family office {#family-office}
 
 A firm managing a single family’s wealth, subject to lighter registration and disclosure than a fund.
@@ -719,6 +797,12 @@ In: [FX Swap](/OTC_Learn/product/fxswap/)
 An invented offsetting position booked to make a real exposure appear hedged.
 
 In: [Société Générale, 2008](/OTC_Learn/product/socgen/)
+
+### Filtered historical simulation {#filtered-historical-simulation}
+
+Historical simulation with past moves rescaled to current volatility.
+
+In: [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
 
 ### Financial stability operation {#financial-stability-operation}
 
@@ -952,11 +1036,17 @@ How far ahead output is sold, and so how much unmined production a mark-to-marke
 
 In: [Ashanti Goldfields, 1999](/OTC_Learn/product/ashanti/)
 
+### Hedging set {#hedging-set}
+
+The group of trades within an asset class, such as interest rate trades in one currency, whose positions may offset.
+
+In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
+
 ### Historical simulation {#historical-simulation}
 
 Computing VaR by applying a window of past market moves to today’s portfolio.
 
-In: [Value at Risk](/OTC_Learn/product/valueatrisk/)
+In: [Value at Risk](/OTC_Learn/product/valueatrisk/), [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
 
 ### Hypothetical P&L {#hypothetical-p-l}
 
@@ -965,6 +1055,18 @@ Yesterday’s portfolio revalued on today’s market data, with no intraday trad
 In: [P&L Attribution](/OTC_Learn/product/pnlexplain/)
 
 ## I {#letter-i}
+
+### IM dispute {#im-dispute}
+
+Disagreement over the amount of an initial margin call, with the undisputed portion still transferred.
+
+In: [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/)
+
+### IM threshold {#im-threshold}
+
+Up to €50 million of initial margin per counterparty relationship, at group level, below which no IM need be called.
+
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 
 ### Implied dividend {#implied-dividend}
 
@@ -995,6 +1097,12 @@ In: [Longevity Swap](/OTC_Learn/product/longevity/)
 The collateral posted at inception, before any variation margin starts moving with the mark.
 
 In: [Total Return Swap](/OTC_Learn/product/trs/)
+
+### Independent price verification {#independent-price-verification}
+
+Testing front-office marks against prices and inputs from sources the desk does not control.
+
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
 
 ### Index arbitrage {#index-arbitrage}
 
@@ -1146,6 +1254,12 @@ The gap between a portfolio’s marked value and what a buyer will pay to take i
 
 In: [Amaranth, 2006](/OTC_Learn/product/amaranth/)
 
+### Liquidity add-on {#liquidity-add-on}
+
+An extra charge for positions too large to be closed out at prevailing market prices.
+
+In: [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
+
 ### Liquidity risk {#liquidity-risk}
 
 The risk of being unable to fund a position that is economically sound, which is what closes most of them.
@@ -1189,6 +1303,12 @@ In: [Contract for Difference](/OTC_Learn/product/cfd/)
 The dealer’s closing of positions once account equity falls below a set fraction of required margin.
 
 In: [Contract for Difference](/OTC_Learn/product/cfd/)
+
+### Margin period of risk {#margin-period-of-risk}
+
+The assumed time from a member’s last good margin payment to the close-out of its portfolio.
+
+In: [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
 
 ### Mark price {#mark-price}
 
@@ -1237,6 +1357,12 @@ In: [Metallgesellschaft, 1993](/OTC_Learn/product/metallges/)
 A term that pays previously missed coupons once the coupon barrier is met again on a later date.
 
 In: [Autocallable Note](/OTC_Learn/product/autocall/)
+
+### Minimum transfer amount {#minimum-transfer-amount}
+
+Up to €500,000, combined across variation and initial margin, below which no transfer is made.
+
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 
 ### Minimum transfer amount (MTA) {#minimum-transfer-amount-mta}
 
@@ -1436,11 +1562,23 @@ A variant with two strikes, paying inside a band and gearing outside it on eithe
 
 In: [Target Redemption Forward](/OTC_Learn/product/tarf/)
 
+### Portfolio reconciliation {#portfolio-reconciliation}
+
+Matching the two counterparties’ trade records so both compute margin on the same population.
+
+In: [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/)
+
 ### Position limits {#position-limits}
 
 Caps on how much of a contract one participant may hold, applied on a regulated exchange.
 
 In: [Amaranth, 2006](/OTC_Learn/product/amaranth/)
+
+### Potential future exposure {#potential-future-exposure}
+
+The add-on for possible growth in exposure, scaled by a multiplier that credits excess collateral.
+
+In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
 
 ### Premium {#premium}
 
@@ -1471,6 +1609,12 @@ In: [Value at Risk](/OTC_Learn/product/valueatrisk/)
 Selling future output forward at a fixed price to insulate a mine or field from a falling market.
 
 In: [Ashanti Goldfields, 1999](/OTC_Learn/product/ashanti/)
+
+### Product class {#product-class}
+
+One of four groupings — rates and FX, credit, equity, commodity — whose margins are summed without diversification.
+
+In: [ISDA SIMM](/OTC_Learn/product/simm/)
 
 ### Projection curve {#projection-curve}
 
@@ -1509,6 +1653,12 @@ In: [DV01 and Rate Risk](/OTC_Learn/product/dv01/)
 A forward on a published mortality rate for an age cohort — the standardised, index-based alternative.
 
 In: [Longevity Swap](/OTC_Learn/product/longevity/)
+
+### Qualifying credit {#qualifying-credit}
+
+SIMM’s credit risk class for investment-grade, high-yield and similar names; securitisations and similar fall under non-qualifying.
+
+In: [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/)
 
 ### Quality basis {#quality-basis}
 
@@ -1602,6 +1752,12 @@ The right to reuse collateral received as if it were the receiving firm’s own,
 
 In: [Collateral and the CSA](/OTC_Learn/product/collateral/)
 
+### Replacement cost {#replacement-cost}
+
+The loss if the counterparty defaulted today: the netting set’s value less collateral held, floored at zero.
+
+In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
+
 ### Repo specialness {#repo-specialness}
 
 The premium a particular bond commands in the repo market, which cheapens the cost of funding it and tightens its asset swap spread.
@@ -1674,6 +1830,12 @@ The implied volatility of a call minus the implied volatility of a put at the sa
 
 In: [Risk Reversal](/OTC_Learn/product/fxrr/)
 
+### Risk weight {#risk-weight}
+
+The calibrated multiplier that turns a sensitivity into a weighted sensitivity, reflecting the factor’s 10-day stress move.
+
+In: [ISDA SIMM](/OTC_Learn/product/simm/)
+
 ### Risk-theoretical P&L {#risk-theoretical-p-l}
 
 The profit the risk model predicts from its own risk factors and sensitivities.
@@ -1700,11 +1862,23 @@ In: [Freight Forward Agreement](/OTC_Learn/product/ffa/)
 
 ## S {#letter-s}
 
+### SA-CCR {#sa-ccr}
+
+The Basel standardised approach for counterparty credit risk: EAD = 1.4 × (replacement cost + potential future exposure).
+
+In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
+
 ### Schedule {#schedule}
 
 The document that amends and elects within the Master Agreement’s standard form, adding bespoke terms and naming any Additional Termination Events specific to one relationship.
 
 In: [The ISDA Architecture](/OTC_Learn/product/isda/)
+
+### Schedule-based IM {#schedule-based-im}
+
+The standardised alternative to a model: a percentage of notional by asset class and maturity, adjusted for netting.
+
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 
 ### Seasonality {#seasonality}
 
@@ -1717,6 +1891,12 @@ In: [Inflation Swap](/OTC_Learn/product/infswap/)
 The regulated electronic venues — Swap Execution Facilities in the US, Multilateral and Organised Trading Facilities in the EU — that a sufficiently standardised derivative is required to trade on rather than being negotiated bilaterally.
 
 In: [Execution and Reporting](/OTC_Learn/product/execution/)
+
+### Segregation {#segregation}
+
+Holding initial margin with an independent custodian so it is protected if the collecting party defaults.
+
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 
 ### Segregation of duties {#segregation-of-duties}
 
@@ -1765,6 +1945,12 @@ In: [The LME nickel squeeze, 2022](/OTC_Learn/product/nickel/)
 Selling a call and a put at the same strike: premium now, unbounded loss if the market moves far.
 
 In: [Barings, 1995](/OTC_Learn/product/barings/)
+
+### SIMM {#simm}
+
+ISDA’s Standard Initial Margin Model, a sensitivities-based calculation of initial margin for uncleared derivatives.
+
+In: [ISDA SIMM](/OTC_Learn/product/simm/)
 
 ### Single agreement {#single-agreement}
 
@@ -1886,6 +2072,12 @@ The obligation on a desk head to know what the desk holds, which no system repla
 
 In: [Société Générale, 2008](/OTC_Learn/product/socgen/)
 
+### Supervisory factor {#supervisory-factor}
+
+The prescribed volatility multiplier by asset class, such as 0.5% for interest rates or 4% for FX.
+
+In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
+
 ### Suppressed volatility {#suppressed-volatility}
 
 Realised volatility held artificially low by intervention, which flatters every risk measure built on it.
@@ -2002,6 +2194,12 @@ The regulated entity every OTC derivative, cleared or not, has to be reported to
 
 In: [Execution and Reporting](/OTC_Learn/product/execution/)
 
+### Trade-level attribution {#trade-level-attribution}
+
+Measuring each trade’s contribution to total IM, often by removing it and recomputing.
+
+In: [IM Disputes and Reconciliation](/OTC_Learn/product/imrecon/)
+
 ### Tranche {#tranche}
 
 A slice of the basket’s losses between an attachment and a detachment point, sold as a separate contract.
@@ -2009,6 +2207,12 @@ A slice of the basket’s losses between an attachment and a detachment point, s
 In: [CDX Index](/OTC_Learn/product/cdx/), [The London Whale, 2012](/OTC_Learn/product/whale/)
 
 ## U {#letter-u}
+
+### Uncleared Margin Rules {#uncleared-margin-rules}
+
+Regulations, based on the BCBS–IOSCO framework, requiring margin on derivatives not cleared through a CCP.
+
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 
 ### Unexplained P&L {#unexplained-p-l}
 
@@ -2035,6 +2239,12 @@ The Unique Transaction Identifier, generated once per trade so both counterparti
 In: [Execution and Reporting](/OTC_Learn/product/execution/)
 
 ## V {#letter-v}
+
+### Valuation control group {#valuation-control-group}
+
+The function, independent of trading, that verifies marks and books valuation adjustments.
+
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
 
 ### Valuation date {#valuation-date}
 
@@ -2244,6 +2454,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "AANA",
+      "description": "Average aggregate notional amount of a group’s uncleared derivatives, the test for being in scope for initial margin.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#aana"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Accrual factor",
       "description": "The fraction of days in the period on which the reference fixed inside the range.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#accrual-factor"
@@ -2253,6 +2469,18 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Accrual period",
       "description": "The window whose ex-dividend dates count — conventionally a single calendar year.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#accrual-period"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Additional valuation adjustment",
+      "description": "A prudent valuation deduction from CET1 capital, computed at 90% confidence for one of nine uncertainty sources.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#additional-valuation-adjustment"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Algorithmic differentiation",
+      "description": "Computing sensitivities analytically through the pricing code, as opposed to bumping inputs and revaluing.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#algorithmic-differentiation"
     },
     {
       "@type": "DefinedTerm",
@@ -2271,6 +2499,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Annuity factor",
       "description": "The sum of the discount factors over the bond’s remaining life, which converts an upfront price difference into a running spread.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#annuity-factor"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Anti-procyclicality buffer",
+      "description": "Extra margin, at least 25% under one EMIR option, collected in calm markets and released in stress.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#anti-procyclicality-buffer"
     },
     {
       "@type": "DefinedTerm",
@@ -2307,6 +2541,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Averaging convention",
       "description": "The rule turning a series of daily published prices into the single floating price for a period.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#averaging-convention"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "BA-CVA and SA-CVA",
+      "description": "The basic and standardised approaches to capital for CVA risk under final Basel III.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#ba-cva-and-sa-cva"
     },
     {
       "@type": "DefinedTerm",
@@ -2376,6 +2616,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Bid–offer reserve",
+      "description": "A fair value adjustment for the cost of closing out the book’s net risk positions.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#bid-offer-reserve"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Block trade",
       "description": "A trade above a published size threshold, permitted a short reporting delay so that publishing it does not itself move the market against whoever just dealt.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#block-trade"
@@ -2397,6 +2643,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Breakeven inflation",
       "description": "The fixed rate that makes both legs settle at the same amount, and so the market’s implied average inflation for that maturity.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#breakeven-inflation"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Bucket",
+      "description": "The grouping within a risk class — a currency, a credit sector, an equity sector — inside which sensitivities are first aggregated.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#bucket"
     },
     {
       "@type": "DefinedTerm",
@@ -2520,6 +2772,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Concentration threshold",
+      "description": "The size above which a bucket’s weighted sensitivities are scaled up to reflect the cost of liquidating a large position.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#concentration-threshold"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Confidence level",
       "description": "The quantile the measure is read at, commonly 97.5% or 99%.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#confidence-level"
@@ -2628,6 +2886,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "CRIF",
+      "description": "Common Risk Interchange Format, the standard file of sensitivities that feeds SIMM and is exchanged between counterparties.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#crif"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Cross-currency basis",
       "description": "The spread added to one floating leg of a floating-for-floating cross-currency swap, which covered interest rate parity implies should be zero and, for the dollar since 2008, persistently is not.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#cross-currency-basis"
@@ -2694,6 +2958,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Day-one P&L deferral",
+      "description": "Holding back profit on a trade valued with significant unobservable inputs until they become observable.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#day-one-p-l-deferral"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Days to liquidate",
       "description": "How long a position would take to sell at normal volumes, and so how stale the price used to margin it is.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#days-to-liquidate"
@@ -2703,6 +2973,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Decumulator",
       "description": "The mirror structure, selling a daily quantity above spot and geared into a rally.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#decumulator"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Default fund",
+      "description": "The mutualised resource, contributed by all members, used after the defaulter’s own margin and contribution.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#default-fund"
     },
     {
       "@type": "DefinedTerm",
@@ -2769,6 +3045,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Disorderly unwind",
       "description": "A forced liquidation in which sellers compete, so the price achieved is far below the marked value.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#disorderly-unwind"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Dispute tolerance",
+      "description": "The difference, in amount or percentage, below which a call is accepted without investigation.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#dispute-tolerance"
     },
     {
       "@type": "DefinedTerm",
@@ -2910,6 +3192,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Fair value hierarchy",
+      "description": "IFRS 13’s Levels 1 to 3, classifying positions by how observable their valuation inputs are.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#fair-value-hierarchy"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Family office",
       "description": "A firm managing a single family’s wealth, subject to lighter registration and disclosure than a fund.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#family-office"
@@ -2925,6 +3213,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Fictitious trade",
       "description": "An invented offsetting position booked to make a real exposure appear hedged.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#fictitious-trade"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Filtered historical simulation",
+      "description": "Historical simulation with past moves rescaled to current volatility.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#filtered-historical-simulation"
     },
     {
       "@type": "DefinedTerm",
@@ -3156,6 +3450,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Hedging set",
+      "description": "The group of trades within an asset class, such as interest rate trades in one currency, whose positions may offset.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#hedging-set"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Historical simulation",
       "description": "Computing VaR by applying a window of past market moves to today’s portfolio.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#historical-simulation"
@@ -3165,6 +3465,18 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Hypothetical P&L",
       "description": "Yesterday’s portfolio revalued on today’s market data, with no intraday trading or fees.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#hypothetical-p-l"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "IM dispute",
+      "description": "Disagreement over the amount of an initial margin call, with the undisputed portion still transferred.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#im-dispute"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "IM threshold",
+      "description": "Up to €50 million of initial margin per counterparty relationship, at group level, below which no IM need be called.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#im-threshold"
     },
     {
       "@type": "DefinedTerm",
@@ -3195,6 +3507,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Independent amount",
       "description": "The collateral posted at inception, before any variation margin starts moving with the mark.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#independent-amount"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Independent price verification",
+      "description": "Testing front-office marks against prices and inputs from sources the desk does not control.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#independent-price-verification"
     },
     {
       "@type": "DefinedTerm",
@@ -3342,6 +3660,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Liquidity add-on",
+      "description": "An extra charge for positions too large to be closed out at prevailing market prices.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#liquidity-add-on"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Liquidity risk",
       "description": "The risk of being unable to fund a position that is economically sound, which is what closes most of them.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#liquidity-risk"
@@ -3381,6 +3705,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Margin close-out",
       "description": "The dealer’s closing of positions once account equity falls below a set fraction of required margin.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#margin-close-out"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Margin period of risk",
+      "description": "The assumed time from a member’s last good margin payment to the close-out of its portfolio.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#margin-period-of-risk"
     },
     {
       "@type": "DefinedTerm",
@@ -3429,6 +3759,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Memory feature",
       "description": "A term that pays previously missed coupons once the coupon barrier is met again on a later date.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#memory-feature"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Minimum transfer amount",
+      "description": "Up to €500,000, combined across variation and initial margin, below which no transfer is made.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#minimum-transfer-amount"
     },
     {
       "@type": "DefinedTerm",
@@ -3624,9 +3960,21 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Portfolio reconciliation",
+      "description": "Matching the two counterparties’ trade records so both compute margin on the same population.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#portfolio-reconciliation"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Position limits",
       "description": "Caps on how much of a contract one participant may hold, applied on a regulated exchange.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#position-limits"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Potential future exposure",
+      "description": "The add-on for possible growth in exposure, scaled by a multiplier that credits excess collateral.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#potential-future-exposure"
     },
     {
       "@type": "DefinedTerm",
@@ -3657,6 +4005,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Producer hedge",
       "description": "Selling future output forward at a fixed price to insulate a mine or field from a falling market.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#producer-hedge"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Product class",
+      "description": "One of four groupings — rates and FX, credit, equity, commodity — whose margins are summed without diversification.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#product-class"
     },
     {
       "@type": "DefinedTerm",
@@ -3693,6 +4047,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "q-forward",
       "description": "A forward on a published mortality rate for an age cohort — the standardised, index-based alternative.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#q-forward"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Qualifying credit",
+      "description": "SIMM’s credit risk class for investment-grade, high-yield and similar names; securitisations and similar fall under non-qualifying.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#qualifying-credit"
     },
     {
       "@type": "DefinedTerm",
@@ -3786,6 +4146,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Replacement cost",
+      "description": "The loss if the counterparty defaulted today: the netting set’s value less collateral held, floored at zero.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#replacement-cost"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Repo specialness",
       "description": "The premium a particular bond commands in the repo market, which cheapens the cost of funding it and tightens its asset swap spread.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#repo-specialness"
@@ -3858,6 +4224,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Risk weight",
+      "description": "The calibrated multiplier that turns a sensitivity into a weighted sensitivity, reflecting the factor’s 10-day stress move.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#risk-weight"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Risk-theoretical P&L",
       "description": "The profit the risk model predicts from its own risk factors and sensitivities.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#risk-theoretical-p-l"
@@ -3882,9 +4254,21 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "SA-CCR",
+      "description": "The Basel standardised approach for counterparty credit risk: EAD = 1.4 × (replacement cost + potential future exposure).",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#sa-ccr"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Schedule",
       "description": "The document that amends and elects within the Master Agreement’s standard form, adding bespoke terms and naming any Additional Termination Events specific to one relationship.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#schedule"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Schedule-based IM",
+      "description": "The standardised alternative to a model: a percentage of notional by asset class and maturity, adjusted for netting.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#schedule-based-im"
     },
     {
       "@type": "DefinedTerm",
@@ -3897,6 +4281,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "SEF / MTF / OTF",
       "description": "The regulated electronic venues — Swap Execution Facilities in the US, Multilateral and Organised Trading Facilities in the EU — that a sufficiently standardised derivative is required to trade on rather than being negotiated bilaterally.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#sef-mtf-otf"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Segregation",
+      "description": "Holding initial margin with an independent custodian so it is protected if the collecting party defaults.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#segregation"
     },
     {
       "@type": "DefinedTerm",
@@ -3945,6 +4335,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Short straddle",
       "description": "Selling a call and a put at the same strike: premium now, unbounded loss if the market moves far.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#short-straddle"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "SIMM",
+      "description": "ISDA’s Standard Initial Margin Model, a sensitivities-based calculation of initial margin for uncleared derivatives.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#simm"
     },
     {
       "@type": "DefinedTerm",
@@ -4068,6 +4464,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Supervisory factor",
+      "description": "The prescribed volatility multiplier by asset class, such as 0.5% for interest rates or 4% for FX.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#supervisory-factor"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Suppressed volatility",
       "description": "Realised volatility held artificially low by intervention, which flatters every risk measure built on it.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#suppressed-volatility"
@@ -4182,9 +4584,21 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Trade-level attribution",
+      "description": "Measuring each trade’s contribution to total IM, often by removing it and recomputing.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#trade-level-attribution"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Tranche",
       "description": "A slice of the basket’s losses between an attachment and a detachment point, sold as a separate contract.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#tranche"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Uncleared Margin Rules",
+      "description": "Regulations, based on the BCBS–IOSCO framework, requiring margin on derivatives not cleared through a CCP.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#uncleared-margin-rules"
     },
     {
       "@type": "DefinedTerm",
@@ -4209,6 +4623,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "UTI / UPI",
       "description": "The Unique Transaction Identifier, generated once per trade so both counterparties’ reports can be matched, and the Unique Product Identifier, reused across every trade in the same instrument.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#uti-upi"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Valuation control group",
+      "description": "The function, independent of trading, that verifies marks and books valuation adjustments.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#valuation-control-group"
     },
     {
       "@type": "DefinedTerm",

@@ -1,10 +1,10 @@
 ---
-title: "Equity Valuation — CFA Level II sample questions"
-description: "Equity Valuation: weight band, learning modules and 5 worked sample questions for CFA Level II candidates."
+title: "Equities — CFA Level II sample questions"
+description: "Equities: weight band, learning modules and 5 worked sample questions for CFA Level II candidates."
 permalink: /CornerStone/cfa/l2-equity/
 ---
 
-# Equity Valuation
+# Equities
 
 *CFA® Level II, published weight 10–15%.* DDM, free cash flow, multiples, residual income, private companies.
 

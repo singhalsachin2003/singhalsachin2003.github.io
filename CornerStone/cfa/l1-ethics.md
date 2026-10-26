@@ -6,7 +6,7 @@ permalink: /CornerStone/cfa/l1-ethics/
 
 # Ethical & Professional Standards
 
-*CFA® Level I, published weight 15–20%.* The Code, the seven Standards, and how examiners phrase violations.
+*CFA® Level I, published weight 10–15%.* The Code, the seven Standards, and how examiners phrase violations.
 
 ## What the outline covers
 
@@ -18,7 +18,7 @@ permalink: /CornerStone/cfa/l1-ethics/
 - Guidance for Standard IV: Duties to Employers
 - Guidance for Standard V: Investment Analysis, Recommendations, and Actions
 - Guidance for Standard VI: Conflicts of Interest
-- Guidance for Standard VII: Responsibilities as a CFA Institute Member or Candidate
+- Guidance for Standard VII: Responsibilities as a CFA Institute Member or CFA Candidate
 - Application of the Code and Standards: Level I
 
 ## Sample questions

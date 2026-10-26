@@ -11,7 +11,13 @@ permalink: /CornerStone/cfa/l2-ethics/
 ## What the outline covers
 
 - Code of Ethics and Standards of Professional Conduct
-- Guidance for Standards I–VII
+- Guidance for Standard I: Professionalism
+- Guidance for Standard II: Integrity of Capital Markets
+- Guidance for Standard III: Duties to Clients
+- Guidance for Standard IV: Duties to Employers
+- Guidance for Standard V: Investment Analysis, Recommendations, and Actions
+- Guidance for Standard VI: Conflicts of Interest
+- Guidance for Standard VII: Responsibilities as a CFA Institute Member or CFA Candidate
 - Application of the Code and Standards: Level II
 
 ## Sample questions

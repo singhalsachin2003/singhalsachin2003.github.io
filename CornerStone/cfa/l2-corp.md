@@ -1,17 +1,17 @@
 ---
-title: "Corporate Issuers — CFA Level II sample questions"
-description: "Corporate Issuers: weight band, learning modules and 5 worked sample questions for CFA Level II candidates."
+title: "Corporate Finance — CFA Level II sample questions"
+description: "Corporate Finance: weight band, learning modules and 5 worked sample questions for CFA Level II candidates."
 permalink: /CornerStone/cfa/l2-corp/
 ---
 
-# Corporate Issuers
+# Corporate Finance
 
 *CFA® Level II, published weight 5–10%.* Dividends and buybacks, ESG, advanced cost of capital, restructuring.
 
 ## What the outline covers
 
 - Analysis of Dividends and Share Repurchases
-- ESG Considerations in Investment Analysis
+- Environmental, Social, and Governance (ESG) Considerations in Investment Analysis
 - Cost of Capital: Advanced Topics
 - Corporate Restructuring
 
@@ -33,7 +33,7 @@ D. An increase only if funded with cash
 
 **B.** Repurchasing above book value removes more equity per share than the shares carried, so book value per share falls. Below book value it rises.
 
-*Reading: Corporate Issuers — Analysis of Dividends and Share Repurchases, LOS 1.d*
+*Reading: Corporate Finance — Analysis of Dividends and Share Repurchases, LOS 1.d*
 
 </details>
 
@@ -53,7 +53,7 @@ D. $1.60
 
 **A.** Expected increase = (4.00 × 0.40 − 1.00) × 0.25 = (1.60 − 1.00) × 0.25 = $0.15. The full gap is closed only gradually.
 
-*Reading: Corporate Issuers — Analysis of Dividends and Share Repurchases, LOS 1.f*
+*Reading: Corporate Finance — Analysis of Dividends and Share Repurchases, LOS 1.f*
 
 </details>
 
@@ -71,7 +71,7 @@ D. A zero debt-to-equity ratio
 
 **B.** Unlever with the comparable's capital structure to strip it out, then relever with the subject firm's target structure. Using the comparable's in both steps is the planted error.
 
-*Reading: Corporate Issuers — Cost of Capital: Advanced Topics, LOS 3.c*
+*Reading: Corporate Finance — Cost of Capital: Advanced Topics, LOS 3.c*
 
 </details>
 
@@ -89,7 +89,7 @@ D. Eliminated by the exchange ratio
 
 **B.** Target shareholders become owners of the combined entity, so they share in any shortfall. In a cash deal the acquirer bears the full risk.
 
-*Reading: Corporate Issuers — Corporate Restructuring, LOS 4.d*
+*Reading: Corporate Finance — Corporate Restructuring, LOS 4.d*
 
 </details>
 
@@ -107,7 +107,7 @@ D. Engagement and active ownership
 
 **B.** Negative screening removes sectors or activities outright. Best-in-class instead selects leaders within every sector.
 
-*Reading: Corporate Issuers — ESG Considerations in Investment Analysis, LOS 2.b*
+*Reading: Corporate Finance — Environmental, Social, and Governance (ESG) Considerations in Investment Analysis, LOS 2.b*
 
 </details>
 

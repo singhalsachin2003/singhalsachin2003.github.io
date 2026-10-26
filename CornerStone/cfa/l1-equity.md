@@ -1,10 +1,10 @@
 ---
-title: "Equity Investments — CFA Level I sample questions"
-description: "Equity Investments: weight band, learning modules and 5 worked sample questions for CFA Level I candidates."
+title: "Equities — CFA Level I sample questions"
+description: "Equities: weight band, learning modules and 5 worked sample questions for CFA Level I candidates."
 permalink: /CornerStone/cfa/l1-equity/
 ---
 
-# Equity Investments
+# Equities
 
 *CFA® Level I, published weight 11–14%.* Market organisation, indexes, industry analysis, dividend models.
 
@@ -21,7 +21,7 @@ permalink: /CornerStone/cfa/l1-equity/
 - Industry and Competitive Analysis
 - Company Analysis: Past, Present, and Future
 - Equity Analyst Research Reports
-- The CAPM, Market Model, and Other Factor-Based Equity Models
+- The Capital Asset Pricing Model, Market Model, and Other Factor-Based Equity Models
 
 ## Sample questions
 
@@ -43,7 +43,7 @@ D. $52.00
 
 **B.** D₁ = 2.00 × 1.04 = $2.08. V₀ = 2.08 / (0.09 − 0.04) = $41.60. Using D₀ directly gives $40.00, the planted distractor.
 
-*Reading: Equity Investments — Discounted Cash Flow and Growth Models, LOS 6.b*
+*Reading: Equities — Discounted Cash Flow and Growth Models, LOS 6.b*
 
 </details>
 
@@ -61,7 +61,7 @@ D. Having no effect on any index type
 
 **B.** The divisor is adjusted so the index level is unchanged by the split. In a market-cap weighted index no adjustment is required at all.
 
-*Reading: Equity Investments — Sources of Equity Returns, LOS 4.c*
+*Reading: Equities — Sources of Equity Returns, LOS 4.c*
 
 </details>
 
@@ -81,7 +81,7 @@ D. 15.0%
 
 **B.** g = b × ROE = 0.40 × 0.15 = 6.0%. This is the rate at which the firm can grow without issuing new equity.
 
-*Reading: Equity Investments — Discounted Cash Flow and Growth Models, LOS 6.d*
+*Reading: Equities — Discounted Cash Flow and Growth Models, LOS 6.d*
 
 </details>
 
@@ -101,7 +101,7 @@ D. 20.0×
 
 **C.** P/E = (1 − b)/(r − g) = 0.60/(0.10 − 0.05) = 12.0×. The same inputs that drive a dividend model drive the justified multiple.
 
-*Reading: Equity Investments — Relative Value Equity Valuation Approaches, LOS 7.b*
+*Reading: Equities — Relative Value Equity Valuation Approaches, LOS 7.b*
 
 </details>
 
@@ -119,7 +119,7 @@ D. Rapid technological change
 
 **C.** High switching costs lock customers in and reduce buyer power, which supports pricing power. The other three erode it.
 
-*Reading: Equity Investments — Industry and Competitive Analysis, LOS 9.c*
+*Reading: Equities — Industry and Competitive Analysis, LOS 9.c*
 
 </details>
 

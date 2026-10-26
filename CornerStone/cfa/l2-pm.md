@@ -1,10 +1,10 @@
 ---
-title: "Portfolio Management — CFA Level II sample questions"
-description: "Portfolio Management: weight band, learning modules and 5 worked sample questions for CFA Level II candidates."
+title: "Portfolio Construction — CFA Level II sample questions"
+description: "Portfolio Construction: weight band, learning modules and 5 worked sample questions for CFA Level II candidates."
 permalink: /CornerStone/cfa/l2-pm/
 ---
 
-# Portfolio Management
+# Portfolio Construction
 
 *CFA® Level II, published weight 10–15%.* Active management, ETFs, multifactor models, market risk, backtesting.
 

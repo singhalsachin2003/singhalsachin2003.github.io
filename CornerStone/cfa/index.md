@@ -12,16 +12,16 @@ Each topic area below lists its published weight band and the learning modules f
 
 Tools and concepts — 10 topic areas, 180 questions
 
-- [Ethical & Professional Standards](/CornerStone/cfa/l1-ethics/) — 15–20%. The Code, the seven Standards, and how examiners phrase violations.
-- [Quantitative Methods](/CornerStone/cfa/l1-quant/) — 6–9%. Returns, time value, distributions, hypothesis tests, simple regression.
+- [Ethical & Professional Standards](/CornerStone/cfa/l1-ethics/) — 10–15%. The Code, the seven Standards, and how examiners phrase violations.
+- [Quantitative Methods](/CornerStone/cfa/l1-quant/) — 11–14%. Returns and benchmarks, time value, distributions, portfolio maths, regression.
 - [Economics](/CornerStone/cfa/l1-econ/) — 6–9%. Market structures, business cycles, policy, trade and exchange rates.
 - [Financial Statement Analysis](/CornerStone/cfa/l1-fsa/) — 11–14%. The three statements, inventories, long-lived assets, quality of earnings.
-- [Corporate Issuers](/CornerStone/cfa/l1-corp/) — 6–9%. Governance, working capital, capital allocation, capital structure.
-- [Equity Investments](/CornerStone/cfa/l1-equity/) — 11–14%. Market organisation, indexes, industry analysis, dividend models.
+- [Corporate Finance](/CornerStone/cfa/l1-corp/) — 6–9%. Governance, working capital, capital allocation, capital structure.
+- [Equities](/CornerStone/cfa/l1-equity/) — 11–14%. Market organisation, indexes, industry analysis, dividend models.
 - [Fixed Income](/CornerStone/cfa/l1-fixed/) — 11–14%. Pricing, yield measures, duration, convexity, credit spreads.
-- [Derivatives](/CornerStone/cfa/l1-deriv/) — 5–8%. Forwards, futures, swaps, options and arbitrage-free pricing.
-- [Alternative Investments](/CornerStone/cfa/l1-alt/) — 7–10%. Private capital, real estate, natural resources, hedge funds, digital assets.
-- [Portfolio Management](/CornerStone/cfa/l1-pm/) — 8–12%. Risk and return, the CAPM, IPS construction, behavioural biases.
+- [Derivatives](/CornerStone/cfa/l1-deriv/) — 6–9%. Forwards, futures, swaps, options and arbitrage-free pricing.
+- [Alternative Investments](/CornerStone/cfa/l1-alt/) — 6–9%. Private capital, real estate, natural resources, hedge funds, digital assets.
+- [Portfolio Construction](/CornerStone/cfa/l1-pm/) — 8–12%. Risk and return, the CAPM, IPS construction, behavioural biases.
 
 ## Level II
 
@@ -31,12 +31,12 @@ Asset valuation — 22 item sets (vignettes)
 - [Quantitative Methods](/CornerStone/cfa/l2-quant/) — 5–10%. Multiple regression, misspecification, time series, machine learning.
 - [Economics](/CornerStone/cfa/l2-econ/) — 5–10%. Two dense modules: currency equilibrium value and economic growth.
 - [Financial Statement Analysis](/CornerStone/cfa/l2-fsa/) — 10–15%. Intercorporate investments, pensions, multinationals, report quality.
-- [Corporate Issuers](/CornerStone/cfa/l2-corp/) — 5–10%. Dividends and buybacks, ESG, advanced cost of capital, restructuring.
-- [Equity Valuation](/CornerStone/cfa/l2-equity/) — 10–15%. DDM, free cash flow, multiples, residual income, private companies.
+- [Corporate Finance](/CornerStone/cfa/l2-corp/) — 5–10%. Dividends and buybacks, ESG, advanced cost of capital, restructuring.
+- [Equities](/CornerStone/cfa/l2-equity/) — 10–15%. DDM, free cash flow, multiples, residual income, private companies.
 - [Fixed Income](/CornerStone/cfa/l2-fixed/) — 10–15%. Term structure dynamics, arbitrage-free valuation, embedded options, CDS.
 - [Derivatives](/CornerStone/cfa/l2-deriv/) — 5–10%. Forward commitments and contingent claims — binomial, BSM, the Greeks.
 - [Alternative Investments](/CornerStone/cfa/l2-alt/) — 5–10%. Commodities, real estate direct and listed, hedge fund strategies.
-- [Portfolio Management](/CornerStone/cfa/l2-pm/) — 10–15%. Active management, ETFs, multifactor models, market risk, backtesting.
+- [Portfolio Construction](/CornerStone/cfa/l2-pm/) — 10–15%. Active management, ETFs, multifactor models, market risk, backtesting.
 
 ## Level III
 

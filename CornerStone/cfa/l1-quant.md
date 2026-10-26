@@ -6,21 +6,21 @@ permalink: /CornerStone/cfa/l1-quant/
 
 # Quantitative Methods
 
-*CFA® Level I, published weight 6–9%.* Returns, time value, distributions, hypothesis tests, simple regression.
+*CFA® Level I, published weight 11–14%.* Returns and benchmarks, time value, distributions, portfolio maths, regression.
 
 ## What the outline covers
 
-- Rates and Returns
-- Time Value of Money in Finance
-- Statistical Measures of Asset Returns
-- Probability Trees and Conditional Expectations
-- Portfolio Mathematics
-- Simulation Methods
-- Estimation and Inference
-- Hypothesis Testing
-- Parametric and Non-Parametric Tests of Independence
-- Simple Linear Regression
-- Introduction to Big Data Techniques
+- Returns of Financial Assets and Instruments
+- Types of Financial Returns
+- Benchmarking Returns
+- The Time Value of Money in Finance
+- Statistical Characteristics of Asset Returns
+- Statistical Distributions for Financial Asset Prices and Returns
+- Estimation and Hypothesis Testing
+- The Return and Risk of a Financial Portfolio
+- Simulation of Financial Asset Prices and Returns
+- Applications of Simple Linear Regression in Finance
+- Introduction to Financial Data Science
 
 ## Sample questions
 
@@ -42,7 +42,7 @@ D. 8.33%
 
 **B.** EAR = (1 + 0.08/4)⁴ − 1 = 1.02⁴ − 1 = 8.243%. More frequent compounding always raises the effective rate above the stated rate.
 
-*Reading: Quantitative Methods — Rates and Returns, LOS 1.b*
+*Reading: Quantitative Methods — Types of Financial Returns*
 
 </details>
 
@@ -60,7 +60,7 @@ D. A specification error
 
 **A.** Rejecting a true null is a Type I error, and its probability equals the significance level chosen. Failing to reject a false null is Type II.
 
-*Reading: Quantitative Methods — Hypothesis Testing, LOS 8.a*
+*Reading: Quantitative Methods — Estimation and Hypothesis Testing*
 
 </details>
 
@@ -80,7 +80,7 @@ D. 1.20%
 
 **B.** The standard error is s/√n = 3.0%/5 = 0.60%. It falls with the square root of sample size, not with sample size itself.
 
-*Reading: Quantitative Methods — Estimation and Inference, LOS 7.c*
+*Reading: Quantitative Methods — Estimation and Hypothesis Testing*
 
 </details>
 
@@ -100,7 +100,7 @@ D. 1.28
 
 **C.** In simple linear regression R² is the squared correlation, so |r| = √0.64 = 0.80. The sign follows the sign of the slope coefficient.
 
-*Reading: Quantitative Methods — Simple Linear Regression, LOS 10.d*
+*Reading: Quantitative Methods — Applications of Simple Linear Regression in Finance*
 
 </details>
 
@@ -118,7 +118,7 @@ D. Mode
 
 **B.** The geometric mean accounts for compounding and gives the constant rate that reproduces the ending value. It is always ≤ the arithmetic mean.
 
-*Reading: Quantitative Methods — Rates and Returns, LOS 1.d*
+*Reading: Quantitative Methods — Statistical Characteristics of Asset Returns*
 
 </details>
 
