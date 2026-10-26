@@ -1,12 +1,12 @@
 ---
 title: "CFA glossary: investment terms defined"
-description: "226 CFA terms defined in plain English, with formulas and the exam angle."
+description: "235 CFA terms defined in plain English, with formulas and the exam angle."
 permalink: /CornerStone/glossary/cfa/
 ---
 
 # CFA® glossary
 
-226 terms, each written to be read cold. The same glossary is free in the app, with search.
+235 terms, each written to be read cold. The same glossary is free in the app, with search.
 
 ### Accrual accounting {#accrual-accounting}
 
@@ -81,6 +81,18 @@ Assets = Liabilities + Equity
 The risk that a hedge and the exposure it hedges do not move together, leaving a residual.
 
 **Exam angle:** Arises from mismatched underlying, maturity or location. A hedge is a swap of price risk for basis risk, not an elimination of risk.
+
+### Bayes’ formula {#bayes-formula}
+
+*Also: Bayesian updating, Bayes theorem*
+
+A rule for revising the probability of an event in the light of new information, using how likely that information is if the event is or is not true.
+
+```
+P(A | B) = P(B | A) × P(A) ÷ P(B)
+```
+
+**Exam angle:** The usual exam trap is forgetting the false positives in P(B): a screen that flags most good managers also flags some bad ones.
 
 ### Behavioural bias {#behavioural-bias}
 
@@ -186,6 +198,18 @@ The general partner’s demand that limited partners transfer part of their comm
 
 **Exam angle:** Commitments are not investments. The gap between committed and drawn capital is the origin of the denominator problem and of the J-curve.
 
+### Capital market line {#capital-market-line}
+
+*Also: CML*
+
+The capital allocation line that runs from the risk-free asset to the market portfolio, the steepest available. Every efficient combination of the risk-free asset and risky assets lies on it.
+
+```
+E(Rₚ) = R_f + [(E(R_m) − R_f) ÷ σ_m] × σₚ
+```
+
+**Exam angle:** The CML prices total risk and holds only for efficient portfolios. The security market line prices beta and holds for every asset.
+
 ### Capital structure {#capital-structure}
 
 The mix of debt and equity a company uses to fund itself.
@@ -225,6 +249,16 @@ CCC = Days inventory + Days receivable − Days payable
 ```
 
 **Exam angle:** A negative cycle means suppliers fund the business. Retailers and marketplaces often run one.
+
+### Cash flow additivity {#cash-flow-additivity}
+
+The principle that the value of a set of cash flows equals the sum of the values of its parts, so two ways of reaching the same future cash flow must cost the same today.
+
+```
+(1 + S₂)² = (1 + S₁)(1 + F₁,₁)
+```
+
+**Exam angle:** The basis of no-arbitrage pricing at Level I: implied forward rates, forward exchange rates and option values via replication all follow from it.
 
 ### Cash flow from operations {#cfo}
 
@@ -698,6 +732,12 @@ The highest value an investor’s holding has previously reached, above which in
 
 **Exam angle:** Stops the manager charging twice for recovering the same losses. It does not stop them closing the fund and starting again.
 
+### Historical simulation {#historical-simulation}
+
+Estimating VaR by revaluing the current portfolio using actual historical changes in risk factors.
+
+**Exam angle:** Assumes no distribution and captures real fat tails, but can only produce losses that have already happened. A quiet lookback window understates risk.
+
 ### Human capital {#human-capital}
 
 The present value of an individual’s expected future earnings, treated as an asset alongside their financial wealth.
@@ -745,6 +785,14 @@ A statement of revenue, expenses and profit over a period.
 The requirement to use reasonable care and judgement to keep independence, and to refuse any gift or pressure that could compromise it.
 
 **Exam angle:** Modest, customary token gifts from clients may be accepted with disclosure to the employer; anything from a company you cover is the problem case.
+
+### Index weighting {#index-weighting}
+
+*Also: price weighting, equal weighting, market-cap weighting, float adjustment, fundamental weighting*
+
+The rule that decides each member’s influence on an index: by share price, equally, by market capitalisation (optionally counting only freely traded shares), or by fundamentals such as sales or earnings.
+
+**Exam angle:** Equal weighting needs rebalancing as prices move; market-cap weighting rebalances itself. A stock split moves a price-weighted index unless the divisor is changed.
 
 ### Inflation {#inflation}
 
@@ -908,6 +956,18 @@ Information that has not been released to the market and that a reasonable inves
 
 **Exam angle:** Materiality and non-publicity are separate tests and both must hold. Selective disclosure to analysts does not make information public.
 
+### Minimum-variance portfolio {#minimum-variance-portfolio}
+
+*Also: global minimum-variance portfolio*
+
+The combination of risky assets with the lowest possible variance. It marks the leftmost point of the efficient frontier; portfolios below it on the curve are dominated.
+
+```
+two assets: w₁ = (σ₂² − ρσ₁σ₂) ÷ (σ₁² + σ₂² − 2ρσ₁σ₂)
+```
+
+**Exam angle:** The lower the correlation, the further its risk falls below that of the less risky asset.
+
 ### Modified duration {#modified-duration}
 
 The approximate percentage change in a bond’s price for a one percentage point change in yield.
@@ -1035,6 +1095,12 @@ The spread over the benchmark curve once the value of any embedded option has be
 The difference between actual and potential output, as a percentage of potential.
 
 **Exam angle:** A positive gap signals inflationary pressure. Potential output is estimated, so the gap is revised heavily after the fact.
+
+### Overfitting {#overfitting}
+
+A model that fits the noise in its training data as well as the signal, so it performs well in-sample and poorly on new data.
+
+**Exam angle:** Guarded against by testing on data the model has not seen and by keeping it no more complex than the problem needs.
 
 ### p-value {#p-value}
 
@@ -1356,6 +1422,12 @@ The requirement to judge an investment against the client’s objectives, constr
 
 A cost already incurred and unrecoverable, and therefore irrelevant to any decision now.
 
+### Supervised learning {#supervised-learning}
+
+Machine learning that fits a model to examples with known outcomes — labelled data — so it can predict the outcome for new cases.
+
+**Exam angle:** Classifying borrowers as likely to default or not is supervised; it needs past borrowers whose outcome is known.
+
 ### Survivorship bias {#survivorship-bias}
 
 Distortion caused by studying only the entities that lasted long enough to appear in the sample.
@@ -1457,6 +1529,12 @@ Rejecting a true null hypothesis. Its probability is the significance level, α.
 *Also: false negative, beta error*
 
 Failing to reject a false null hypothesis. One minus its probability is the power of the test.
+
+### Unsupervised learning {#unsupervised-learning}
+
+Machine learning that finds structure in data without a target variable, for example by grouping similar observations into clusters.
+
+**Exam angle:** If the question has no labelled outcome to predict, the answer is unsupervised.
 
 ### Unsystematic risk {#unsystematic-risk}
 

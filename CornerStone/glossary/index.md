@@ -1,14 +1,14 @@
 ---
 title: "Glossary: CFA and FRM terms defined"
-description: "260 finance terms from the Cornerstone glossary, in plain English with formulas and the exam angle."
+description: "268 finance terms from the Cornerstone glossary, in plain English with formulas and the exam angle."
 permalink: /CornerStone/glossary/
 ---
 
 # Glossary
 
-The Cornerstone glossary has 260 terms, free permanently in the app. Some terms belong to both programmes.
+The Cornerstone glossary has 268 terms, free permanently in the app. Some terms belong to both programmes.
 
-- [CFA® glossary](/CornerStone/glossary/cfa/) — 226 terms
+- [CFA® glossary](/CornerStone/glossary/cfa/) — 235 terms
 - [FRM® glossary](/CornerStone/glossary/frm/) — 126 terms
 
 [Get Cornerstone on Google Play (Android)](/CornerStone/get/?c=web)
