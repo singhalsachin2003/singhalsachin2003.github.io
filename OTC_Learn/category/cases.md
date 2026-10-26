@@ -1,14 +1,14 @@
 ---
 title: "Case Studies"
-description: "Eighteen failures worth understanding, from Metallgesellschaft in 1993 to Credit Suisse in 2023 — each one a mechanism from the free catalogue taken to its conclusion, and many of them a position that was sound until it had to be funded."
+description: "Twenty-two failures worth understanding, from Metallgesellschaft in 1993 to Credit Suisse in 2023 — each one a mechanism from the free catalogue taken to its conclusion, and many of them a position that was sound until it had to be funded."
 permalink: /OTC_Learn/category/cases/
 ---
 
 # Case Studies
 
-Eighteen failures worth understanding, from Metallgesellschaft in 1993 to Credit Suisse in 2023 — each one a mechanism from the free catalogue taken to its conclusion, and many of them a position that was sound until it had to be funded.
+Twenty-two failures worth understanding, from Metallgesellschaft in 1993 to Credit Suisse in 2023 — each one a mechanism from the free catalogue taken to its conclusion, and many of them a position that was sound until it had to be funded.
 
-18 products, each with a five-step lesson, a worked example and a bank of twelve questions.
+22 products, each with a five-step lesson, a worked example and a bank of twelve questions.
 
 Case Studies is part of the OTC Learn subscription; the 36 products the app shipped with are free.
 
@@ -16,9 +16,12 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
 - [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/) — A cheaper loan that was really a sold option
 - [Orange County, 1994](/OTC_Learn/product/orange/) — A conservative bond portfolio, borrowed three times over
 - [Barings, 1995](/OTC_Learn/product/barings/) — One trader, both sides of his own desk
+- [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/) — Eleven years of losses, hidden by the man who kept the records
 - [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/) — One trader, a grip on world copper, and ten years of hidden losses
 - [Long-Term Capital Management, 1998](/OTC_Learn/product/ltcm/) — Convergence trades, twenty-five times over
 - [Ashanti Goldfields, 1999](/OTC_Learn/product/ashanti/) — Seven years of production, sold forward
+- [Enron, 2001](/OTC_Learn/product/enron/) — Hedges against itself, and loans dressed as trades
+- [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/) — Fake options, real losses, and rates the trader supplied himself
 - [Amaranth, 2006](/OTC_Learn/product/amaranth/) — A spread trade too large to leave
 - [Société Générale, 2008](/OTC_Learn/product/socgen/) — Fictitious hedges, and a €4.9bn exit
 - [Lehman Brothers, 2008](/OTC_Learn/product/lehman/) — Nine hundred thousand trades, closed out at once
@@ -29,6 +32,7 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
 - [Archegos, 2021](/OTC_Learn/product/archegos/) — Five banks, one position, and none of them could see it
 - [The LME nickel squeeze, 2022](/OTC_Learn/product/nickel/) — A hedge that could not be delivered into
 - [The gilt LDI crisis, 2022](/OTC_Learn/product/ldi/) — Pension hedges that worked, and could not be funded
+- [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/) — Long bonds, unhedged, funded by deposits that could leave in a day
 - [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/) — Bondholders wiped out while shareholders were paid
 
 [Get OTC Learn on Google Play](/OTC_Learn/get/?c=web)
@@ -39,7 +43,7 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Case Studies",
-    "description": "Eighteen failures worth understanding, from Metallgesellschaft in 1993 to Credit Suisse in 2023 — each one a mechanism from the free catalogue taken to its conclusion, and many of them a position that was sound until it had to be funded.",
+    "description": "Twenty-two failures worth understanding, from Metallgesellschaft in 1993 to Credit Suisse in 2023 — each one a mechanism from the free catalogue taken to its conclusion, and many of them a position that was sound until it had to be funded.",
     "url": "https://singhalsachin2003.github.io/OTC_Learn/category/cases/",
     "inLanguage": "en",
     "isAccessibleForFree": true,
@@ -49,7 +53,7 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
     },
     "mainEntity": {
       "@type": "ItemList",
-      "numberOfItems": 18,
+      "numberOfItems": 22,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -82,97 +86,125 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
         {
           "@type": "ListItem",
           "position": 5,
+          "name": "Daiwa Bank, 1995",
+          "description": "Eleven years of losses, hidden by the man who kept the records",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/daiwa/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
           "name": "Sumitomo copper, 1996",
           "description": "One trader, a grip on world copper, and ten years of hidden losses",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/sumitomo/"
         },
         {
           "@type": "ListItem",
-          "position": 6,
+          "position": 7,
           "name": "Long-Term Capital Management, 1998",
           "description": "Convergence trades, twenty-five times over",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ltcm/"
         },
         {
           "@type": "ListItem",
-          "position": 7,
+          "position": 8,
           "name": "Ashanti Goldfields, 1999",
           "description": "Seven years of production, sold forward",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ashanti/"
         },
         {
           "@type": "ListItem",
-          "position": 8,
+          "position": 9,
+          "name": "Enron, 2001",
+          "description": "Hedges against itself, and loans dressed as trades",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/enron/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Allied Irish Banks and Allfirst, 2002",
+          "description": "Fake options, real losses, and rates the trader supplied himself",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/allfirst/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
           "name": "Amaranth, 2006",
           "description": "A spread trade too large to leave",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/amaranth/"
         },
         {
           "@type": "ListItem",
-          "position": 9,
+          "position": 12,
           "name": "Société Générale, 2008",
           "description": "Fictitious hedges, and a €4.9bn exit",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/socgen/"
         },
         {
           "@type": "ListItem",
-          "position": 10,
+          "position": 13,
           "name": "Lehman Brothers, 2008",
           "description": "Nine hundred thousand trades, closed out at once",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/lehman/"
         },
         {
           "@type": "ListItem",
-          "position": 11,
+          "position": 14,
           "name": "AIG, 2008",
           "description": "Protection that could not pay its collateral calls",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/aig/"
         },
         {
           "@type": "ListItem",
-          "position": 12,
+          "position": 15,
           "name": "MF Global, 2011",
           "description": "A broker’s bet on euro bonds, and its clients’ missing money",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/mfglobal/"
         },
         {
           "@type": "ListItem",
-          "position": 13,
+          "position": 16,
           "name": "The London Whale, 2012",
           "description": "A hedge that grew into the market it was hedging",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/whale/"
         },
         {
           "@type": "ListItem",
-          "position": 14,
+          "position": 17,
           "name": "The Swiss franc floor, 2015",
           "description": "A guarantee withdrawn in a morning",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/chffloor/"
         },
         {
           "@type": "ListItem",
-          "position": 15,
+          "position": 18,
           "name": "Archegos, 2021",
           "description": "Five banks, one position, and none of them could see it",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/archegos/"
         },
         {
           "@type": "ListItem",
-          "position": 16,
+          "position": 19,
           "name": "The LME nickel squeeze, 2022",
           "description": "A hedge that could not be delivered into",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/nickel/"
         },
         {
           "@type": "ListItem",
-          "position": 17,
+          "position": 20,
           "name": "The gilt LDI crisis, 2022",
           "description": "Pension hedges that worked, and could not be funded",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ldi/"
         },
         {
           "@type": "ListItem",
-          "position": 18,
+          "position": 21,
+          "name": "Silicon Valley Bank, 2023",
+          "description": "Long bonds, unhedged, funded by deposits that could leave in a day",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/svb/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
           "name": "Credit Suisse AT1 bonds, 2023",
           "description": "Bondholders wiped out while shareholders were paid",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/csat1/"

@@ -1,12 +1,12 @@
 ---
 title: "OTC derivatives glossary: key terms A to Z"
-description: "421 OTC derivatives terms in plain English, from the 78 products in OTC Learn, each linked to the lesson that teaches it."
+description: "441 OTC derivatives terms in plain English, from the 82 products in OTC Learn, each linked to the lesson that teaches it."
 permalink: /OTC_Learn/glossary/
 ---
 
 # OTC derivatives glossary
 
-421 key terms from the 78 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
+441 key terms from the 82 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
 
 [0–9](#letter-num) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
@@ -130,6 +130,12 @@ The basic and standardised approaches to capital for CVA risk under final Basel 
 
 In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
 
+### Back office {#back-office}
+
+The operations that confirm, settle and record trades after the front office executes them.
+
+In: [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/)
+
 ### Backtesting exception {#backtesting-exception}
 
 A day whose clean P&L loss exceeded the VaR the model predicted for it.
@@ -141,6 +147,12 @@ In: [Value at Risk](/OTC_Learn/product/valueatrisk/)
 A curve where nearby prices exceed distant ones, which makes rolling a long position cost money.
 
 In: [Metallgesellschaft, 1993](/OTC_Learn/product/metallges/), [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
+
+### Bank run {#bank-run}
+
+Depositors withdrawing at once because they fear the bank cannot pay them all.
+
+In: [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/)
 
 ### Barrier {#barrier}
 
@@ -540,6 +552,12 @@ A central bank commitment to prevent a rate falling below a level, held by inter
 
 In: [The Swiss franc floor, 2015](/OTC_Learn/product/chffloor/)
 
+### Custody {#custody}
+
+Holding securities on behalf of an owner, with records that are meant to prove they exist.
+
+In: [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/)
+
 ### CVA {#cva}
 
 Credit valuation adjustment: the expected cost of the counterparty’s own default risk, subtracted from the textbook value.
@@ -589,6 +607,12 @@ In: [Archegos, 2021](/OTC_Learn/product/archegos/)
 The mirror structure, selling a daily quantity above spot and geared into a rally.
 
 In: [Accumulator](/OTC_Learn/product/accum/)
+
+### Deep in the money {#deep-in-the-money}
+
+An option whose strike is far from the current price in the holder’s favour, so it is worth almost its intrinsic value.
+
+In: [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/)
 
 ### Default fund {#default-fund}
 
@@ -727,6 +751,12 @@ In: [The gilt LDI crisis, 2022](/OTC_Learn/product/ldi/)
 A version conditioning the coupon on two references, paying only on days both are inside.
 
 In: [Range Accrual Note](/OTC_Learn/product/rangeacc/)
+
+### Duration {#duration}
+
+The sensitivity of a bond’s price to a change in yields, roughly the percentage price change per 1% move.
+
+In: [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/)
 
 ### DV01 {#dv01}
 
@@ -1108,6 +1138,12 @@ The group of trades within an asset class, such as interest rate trades in one c
 
 In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
 
+### Held to maturity {#held-to-maturity}
+
+An accounting classification that carries bonds at amortised cost, keeping market losses out of reported capital.
+
+In: [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/)
+
 ### Historical simulation {#historical-simulation}
 
 Computing VaR by applying a window of past market moves to today’s portfolio.
@@ -1168,7 +1204,13 @@ In: [Total Return Swap](/OTC_Learn/product/trs/)
 
 Testing front-office marks against prices and inputs from sources the desk does not control.
 
-In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
+In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/), [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/)
+
+### Independent reconciliation {#independent-reconciliation}
+
+Agreeing internal records to a source outside the unit, such as a custodian or counterparty statement.
+
+In: [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/)
 
 ### Independent valuation {#independent-valuation}
 
@@ -1223,6 +1265,12 @@ In: [Collateral and the CSA](/OTC_Learn/product/collateral/)
 A pool absorbing the shortfall when a liquidation cannot be completed at better than the bankruptcy price.
 
 In: [Perpetual Swap](/OTC_Learn/product/perp/)
+
+### Interest rate swap hedge {#interest-rate-swap-hedge}
+
+Paying fixed and receiving floating to offset the fall in value of fixed-rate assets as rates rise.
+
+In: [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/)
 
 ### Inverse floater {#inverse-floater}
 
@@ -1412,6 +1460,12 @@ Valuing a position from directly observable, quoted market inputs.
 
 In: [Valuation and Marking](/OTC_Learn/product/marking/)
 
+### Mark-to-market accounting {#mark-to-market-accounting}
+
+Valuing contracts at current market or model value, so expected lifetime profit can be booked at signing.
+
+In: [Enron, 2001](/OTC_Learn/product/enron/)
+
 ### Mark-to-market reset {#mark-to-market-reset}
 
 A periodic true-up of part of the notional to the current spot rate, used on longer-dated swaps to stop the eventual re-exchange from building up outsized credit exposure.
@@ -1497,6 +1551,12 @@ In: [FX Swap](/OTC_Learn/product/fxswap/)
 An account whose losses exceed its deposit, leaving the client owing the broker money.
 
 In: [The Swiss franc floor, 2015](/OTC_Learn/product/chffloor/)
+
+### Net settlement {#net-settlement}
+
+Settling many trades as one payment, which can hide individual positions if not reconciled trade by trade.
+
+In: [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/)
 
 ### No-touch {#no-touch}
 
@@ -1694,11 +1754,17 @@ Using the premium collected on the leg sold to fund some or all of the premium o
 
 In: [Risk Reversal](/OTC_Learn/product/fxrr/)
 
+### Prepay {#prepay}
+
+Payment today for a commodity delivered later; when hedged back to the seller it becomes a loan in substance.
+
+In: [Enron, 2001](/OTC_Learn/product/enron/)
+
 ### Prime brokerage {#prime-brokerage}
 
-The bank service providing financing, execution and custody to a fund, and the margin terms that go with it.
+A service in which one bank clears, settles and finances a client’s trades executed with other dealers.
 
-In: [Archegos, 2021](/OTC_Learn/product/archegos/)
+In: [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/), [Archegos, 2021](/OTC_Learn/product/archegos/)
 
 ### Principal risk {#principal-risk}
 
@@ -1790,9 +1856,9 @@ In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
 
 ### Rating trigger {#rating-trigger}
 
-A clause that lowers a party’s collateral threshold or adds an independent amount when its credit rating falls.
+A clause that adds collateral or accelerates debt when a company’s credit rating falls.
 
-In: [AIG, 2008](/OTC_Learn/product/aig/)
+In: [Enron, 2001](/OTC_Learn/product/enron/), [AIG, 2008](/OTC_Learn/product/aig/)
 
 ### Realised dividends {#realised-dividends}
 
@@ -1871,6 +1937,12 @@ In: [Commodity Swap](/OTC_Learn/product/cmswap/), [Crack Spread Swap](/OTC_Learn
 The named weather station whose published observations settle the contract, standing in for a whole region.
 
 In: [Weather Swap](/OTC_Learn/product/weather/)
+
+### Regulatory disclosure {#regulatory-disclosure}
+
+A bank’s obligation to tell its supervisors promptly about material losses or misconduct.
+
+In: [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/)
 
 ### Rehypothecation {#rehypothecation}
 
@@ -2042,6 +2114,18 @@ Keeping trading, confirmation and settlement in separate hands so no one person 
 
 In: [Barings, 1995](/OTC_Learn/product/barings/)
 
+### Self-referencing hedge {#self-referencing-hedge}
+
+A hedge whose payout depends on the hedger’s own share price or credit, which fails when it is needed.
+
+In: [Enron, 2001](/OTC_Learn/product/enron/)
+
+### Separation of duties {#separation-of-duties}
+
+Keeping trading, confirmation, settlement and custody in different hands so no one person can conceal a trade.
+
+In: [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/)
+
 ### Series {#series}
 
 One vintage of the index, with a fixed constituent list and coupon, replaced by a new series at each roll.
@@ -2126,6 +2210,12 @@ The power price less the fuel cost at a given heat rate — a gas generator’s 
 
 In: [Power Derivatives](/OTC_Learn/product/power/)
 
+### Special purpose entity {#special-purpose-entity}
+
+A separate legal vehicle set up for a narrow purpose, often to hold assets or risk off a sponsor’s balance sheet.
+
+In: [Enron, 2001](/OTC_Learn/product/enron/)
+
 ### Special purpose vehicle {#special-purpose-vehicle}
 
 A standalone issuing entity created for one deal, holding the collateral and the swap that make the note work.
@@ -2209,6 +2299,12 @@ In: [Credit Index Option](/OTC_Learn/product/cdxopt/)
 A run of FRAs covering consecutive periods, used where a single contract would leave later periods unhedged.
 
 In: [Forward Rate Agreement](/OTC_Learn/product/fra/)
+
+### Substance over form {#substance-over-form}
+
+The accounting principle that a transaction is recorded by its economic effect, not its legal shape.
+
+In: [Enron, 2001](/OTC_Learn/product/enron/)
 
 ### Suitability {#suitability}
 
@@ -2344,6 +2440,12 @@ An exchange’s power to void executed trades, used here for a whole session’s
 
 In: [The LME nickel squeeze, 2022](/OTC_Learn/product/nickel/)
 
+### Trade confirmation {#trade-confirmation}
+
+Agreement of a trade’s terms with the counterparty, the proof that the trade exists.
+
+In: [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/)
+
 ### Trade repository {#trade-repository}
 
 The regulated entity every OTC derivative, cleared or not, has to be reported to — the systemic map of exposures that did not exist before 2008.
@@ -2364,6 +2466,12 @@ In: [CDX Index](/OTC_Learn/product/cdx/), [The London Whale, 2012](/OTC_Learn/pr
 
 ## U {#letter-u}
 
+### Unauthorised trading {#unauthorised-trading}
+
+Trades outside a trader’s mandate or limits, often concealed by falsified records.
+
+In: [Daiwa Bank, 1995](/OTC_Learn/product/daiwa/)
+
 ### Uncleared Margin Rules {#uncleared-margin-rules}
 
 Regulations, based on the BCBS–IOSCO framework, requiring margin on derivatives not cleared through a CCP.
@@ -2375,6 +2483,18 @@ In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 The residual between actual profit and what the risk factors account for.
 
 In: [P&L Attribution](/OTC_Learn/product/pnlexplain/)
+
+### Uninsured deposits {#uninsured-deposits}
+
+Deposits above the government insurance limit, whose holders have most reason to run.
+
+In: [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/)
+
+### Unrealised loss {#unrealised-loss}
+
+The fall in an asset’s market value below its carrying value, not yet crystallised by a sale.
+
+In: [Silicon Valley Bank, 2023](/OTC_Learn/product/svb/)
 
 ### Unwind cost {#unwind-cost}
 
@@ -2412,7 +2532,7 @@ In: [Total Return Swap](/OTC_Learn/product/trs/)
 
 The loss not expected to be exceeded over a stated horizon at a stated confidence level.
 
-In: [Value at Risk](/OTC_Learn/product/valueatrisk/)
+In: [Value at Risk](/OTC_Learn/product/valueatrisk/), [Allied Irish Banks and Allfirst, 2002](/OTC_Learn/product/allfirst/)
 
 ### Value date {#value-date}
 
@@ -2724,6 +2844,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Back office",
+      "description": "The operations that confirm, settle and record trades after the front office executes them.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#back-office"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Backtesting exception",
       "description": "A day whose clean P&L loss exceeded the VaR the model predicted for it.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#backtesting-exception"
@@ -2733,6 +2859,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Backwardation",
       "description": "A curve where nearby prices exceed distant ones, which makes rolling a long position cost money.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#backwardation"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Bank run",
+      "description": "Depositors withdrawing at once because they fear the bank cannot pay them all.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#bank-run"
     },
     {
       "@type": "DefinedTerm",
@@ -3132,6 +3264,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Custody",
+      "description": "Holding securities on behalf of an owner, with records that are meant to prove they exist.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#custody"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "CVA",
       "description": "Credit valuation adjustment: the expected cost of the counterparty’s own default risk, subtracted from the textbook value.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#cva"
@@ -3177,6 +3315,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Decumulator",
       "description": "The mirror structure, selling a daily quantity above spot and geared into a rally.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#decumulator"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Deep in the money",
+      "description": "An option whose strike is far from the current price in the holder’s favour, so it is worth almost its intrinsic value.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#deep-in-the-money"
     },
     {
       "@type": "DefinedTerm",
@@ -3315,6 +3459,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Dual range accrual",
       "description": "A version conditioning the coupon on two references, paying only on days both are inside.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#dual-range-accrual"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Duration",
+      "description": "The sensitivity of a bond’s price to a change in yields, roughly the percentage price change per 1% move.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#duration"
     },
     {
       "@type": "DefinedTerm",
@@ -3690,6 +3840,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Held to maturity",
+      "description": "An accounting classification that carries bonds at amortised cost, keeping market losses out of reported capital.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#held-to-maturity"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Historical simulation",
       "description": "Computing VaR by applying a window of past market moves to today’s portfolio.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#historical-simulation"
@@ -3750,6 +3906,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Independent reconciliation",
+      "description": "Agreeing internal records to a source outside the unit, such as a custodian or counterparty statement.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#independent-reconciliation"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Independent valuation",
       "description": "A price for a position obtained without relying on the dealer that sold it.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#independent-valuation"
@@ -3801,6 +3963,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Insurance fund",
       "description": "A pool absorbing the shortfall when a liquidation cannot be completed at better than the bankruptcy price.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#insurance-fund"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Interest rate swap hedge",
+      "description": "Paying fixed and receiving floating to offset the fall in value of fixed-rate assets as rates rise.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#interest-rate-swap-hedge"
     },
     {
       "@type": "DefinedTerm",
@@ -3984,6 +4152,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Mark-to-market accounting",
+      "description": "Valuing contracts at current market or model value, so expected lifetime profit can be booked at signing.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#mark-to-market-accounting"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Mark-to-market reset",
       "description": "A periodic true-up of part of the notional to the current spot rate, used on longer-dated swaps to stop the eventual re-exchange from building up outsized credit exposure.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#mark-to-market-reset"
@@ -4065,6 +4239,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Negative client balance",
       "description": "An account whose losses exceed its deposit, leaving the client owing the broker money.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#negative-client-balance"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Net settlement",
+      "description": "Settling many trades as one payment, which can hide individual positions if not reconciled trade by trade.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#net-settlement"
     },
     {
       "@type": "DefinedTerm",
@@ -4260,8 +4440,14 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Prepay",
+      "description": "Payment today for a commodity delivered later; when hedged back to the seller it becomes a loan in substance.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#prepay"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Prime brokerage",
-      "description": "The bank service providing financing, execution and custody to a fund, and the margin terms that go with it.",
+      "description": "A service in which one bank clears, settles and finances a client’s trades executed with other dealers.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#prime-brokerage"
     },
     {
@@ -4351,7 +4537,7 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     {
       "@type": "DefinedTerm",
       "name": "Rating trigger",
-      "description": "A clause that lowers a party’s collateral threshold or adds an independent amount when its credit rating falls.",
+      "description": "A clause that adds collateral or accelerates debt when a company’s credit rating falls.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#rating-trigger"
     },
     {
@@ -4431,6 +4617,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Reference station",
       "description": "The named weather station whose published observations settle the contract, standing in for a whole region.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#reference-station"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Regulatory disclosure",
+      "description": "A bank’s obligation to tell its supervisors promptly about material losses or misconduct.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#regulatory-disclosure"
     },
     {
       "@type": "DefinedTerm",
@@ -4602,6 +4794,18 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Self-referencing hedge",
+      "description": "A hedge whose payout depends on the hedger’s own share price or credit, which fails when it is needed.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#self-referencing-hedge"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Separation of duties",
+      "description": "Keeping trading, confirmation, settlement and custody in different hands so no one person can conceal a trade.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#separation-of-duties"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Series",
       "description": "One vintage of the index, with a fixed constituent list and coupon, replaced by a new series at each roll.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#series"
@@ -4686,6 +4890,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Special purpose entity",
+      "description": "A separate legal vehicle set up for a narrow purpose, often to hold assets or risk off a sponsor’s balance sheet.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#special-purpose-entity"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Special purpose vehicle",
       "description": "A standalone issuing entity created for one deal, holding the collateral and the swap that make the note work.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#special-purpose-vehicle"
@@ -4767,6 +4977,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Strip of FRAs",
       "description": "A run of FRAs covering consecutive periods, used where a single contract would leave later periods unhedged.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#strip-of-fras"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Substance over form",
+      "description": "The accounting principle that a transaction is recorded by its economic effect, not its legal shape.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#substance-over-form"
     },
     {
       "@type": "DefinedTerm",
@@ -4902,6 +5118,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Trade confirmation",
+      "description": "Agreement of a trade’s terms with the counterparty, the proof that the trade exists.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#trade-confirmation"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Trade repository",
       "description": "The regulated entity every OTC derivative, cleared or not, has to be reported to — the systemic map of exposures that did not exist before 2008.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#trade-repository"
@@ -4920,6 +5142,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Unauthorised trading",
+      "description": "Trades outside a trader’s mandate or limits, often concealed by falsified records.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#unauthorised-trading"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Uncleared Margin Rules",
       "description": "Regulations, based on the BCBS–IOSCO framework, requiring margin on derivatives not cleared through a CCP.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#uncleared-margin-rules"
@@ -4929,6 +5157,18 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Unexplained P&L",
       "description": "The residual between actual profit and what the risk factors account for.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#unexplained-p-l"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Uninsured deposits",
+      "description": "Deposits above the government insurance limit, whose holders have most reason to run.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#uninsured-deposits"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Unrealised loss",
+      "description": "The fall in an asset’s market value below its carrying value, not yet crystallised by a sale.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#unrealised-loss"
     },
     {
       "@type": "DefinedTerm",
