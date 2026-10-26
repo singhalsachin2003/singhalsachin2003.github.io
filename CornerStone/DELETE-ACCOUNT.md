@@ -37,6 +37,7 @@ device:
 - your review queue
 - your study day history and streak
 - your question and accuracy counts
+- your mock exam scores
 
 **Your account is not touched, and neither is your subscription.** If you are signed in, the
 backup is overwritten the next time this device syncs, so the reset reaches the copy held on
