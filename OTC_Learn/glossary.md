@@ -1,12 +1,12 @@
 ---
 title: "OTC derivatives glossary: key terms A to Z"
-description: "393 OTC derivatives terms in plain English, from the 72 products in OTC Learn, each linked to the lesson that teaches it."
+description: "400 OTC derivatives terms in plain English, from the 74 products in OTC Learn, each linked to the lesson that teaches it."
 permalink: /OTC_Learn/glossary/
 ---
 
 # OTC derivatives glossary
 
-393 key terms from the 72 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
+400 key terms from the 74 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
 
 [0–9](#letter-num) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
@@ -312,11 +312,17 @@ A clearing member facing the CCP on a client’s behalf, in a segregated account
 
 In: [Central Clearing](/OTC_Learn/product/clearing/)
 
+### Close-out Amount {#close-out-amount}
+
+The 2002 ISDA valuation standard: what it would cost to replace the terminated trades, determined in good faith.
+
+In: [Lehman Brothers, 2008](/OTC_Learn/product/lehman/)
+
 ### Close-out netting {#close-out-netting}
 
 Terminating every trade under a Master Agreement together on a default and reducing them to one net figure, rather than settling each on its own.
 
-In: [The ISDA Architecture](/OTC_Learn/product/isda/)
+In: [The ISDA Architecture](/OTC_Learn/product/isda/), [Lehman Brothers, 2008](/OTC_Learn/product/lehman/)
 
 ### Collar {#collar}
 
@@ -346,7 +352,7 @@ In: [The gilt LDI crisis, 2022](/OTC_Learn/product/ldi/)
 
 A repo lender’s demand for more security as the collateral falls, met by selling into the same fall.
 
-In: [Orange County, 1994](/OTC_Learn/product/orange/)
+In: [Orange County, 1994](/OTC_Learn/product/orange/), [AIG, 2008](/OTC_Learn/product/aig/)
 
 ### Concentration threshold {#concentration-threshold}
 
@@ -560,6 +566,12 @@ The mutualised resource, contributed by all members, used after the defaulter’
 
 In: [CCP Margin Models](/OTC_Learn/product/ccpmargin/)
 
+### Default management {#default-management}
+
+A clearing house’s process for hedging and auctioning a failed member’s portfolio, funded first by that member’s margin.
+
+In: [Lehman Brothers, 2008](/OTC_Learn/product/lehman/)
+
 ### Default waterfall {#default-waterfall}
 
 The strict order in which a CCP’s financial resources absorb a defaulting member’s losses, ending only after the defaulter’s own resources and the CCP’s own capital are exhausted.
@@ -740,7 +752,7 @@ In: [Barings, 1995](/OTC_Learn/product/barings/)
 
 A trigger generally caused by one party’s own conduct — non-payment, bankruptcy, a breach of the agreement — giving the other side the right, not the obligation, to terminate everything.
 
-In: [The ISDA Architecture](/OTC_Learn/product/isda/)
+In: [The ISDA Architecture](/OTC_Learn/product/isda/), [Lehman Brothers, 2008](/OTC_Learn/product/lehman/)
 
 ### Exception handling {#exception-handling}
 
@@ -1376,6 +1388,12 @@ The percentage change in price per unit change in yield, from which DV01 is deri
 
 In: [DV01 and Rate Risk](/OTC_Learn/product/dv01/)
 
+### Multi-sector CDO {#multi-sector-cdo}
+
+A CDO whose collateral is other securitised debt, such as mortgage-backed securities, rather than loans.
+
+In: [AIG, 2008](/OTC_Learn/product/aig/)
+
 ### Multiple {#multiple}
 
 The spread divided by the modelled expected loss — the market’s standard relative value measure.
@@ -1628,6 +1646,12 @@ The side paying the coupon and receiving the payout, which leaves it short the c
 
 In: [Credit Default Swap](/OTC_Learn/product/cds/)
 
+### Protection seller {#protection-seller}
+
+The party to a credit default swap that pays out on a credit event, in return for a running premium.
+
+In: [AIG, 2008](/OTC_Learn/product/aig/)
+
 ### Publication lag {#publication-lag}
 
 The fixed number of months between the index month a payment references and the payment date itself — two months on a standard UK RPI swap.
@@ -1667,6 +1691,12 @@ The gap between the index grade and the crude or products a particular refinery 
 In: [Crack Spread Swap](/OTC_Learn/product/crackspread/)
 
 ## R {#letter-r}
+
+### Rating trigger {#rating-trigger}
+
+A clause that lowers a party’s collateral threshold or adds an independent amount when its credit rating falls.
+
+In: [AIG, 2008](/OTC_Learn/product/aig/)
 
 ### Realised dividends {#realised-dividends}
 
@@ -1750,7 +1780,7 @@ In: [Weather Swap](/OTC_Learn/product/weather/)
 
 The right to reuse collateral received as if it were the receiving firm’s own, rather than ring-fencing it — routine for cash variation margin, prohibited for segregated initial margin.
 
-In: [Collateral and the CSA](/OTC_Learn/product/collateral/)
+In: [Collateral and the CSA](/OTC_Learn/product/collateral/), [Lehman Brothers, 2008](/OTC_Learn/product/lehman/)
 
 ### Replacement cost {#replacement-cost}
 
@@ -1885,6 +1915,12 @@ In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
 The repeating within-year pattern in a price index, which largely cancels over whole years but must be modelled on short-dated and broken-dated trades.
 
 In: [Inflation Swap](/OTC_Learn/product/infswap/)
+
+### Section 2(a)(iii) {#section-2-a-iii}
+
+The ISDA condition that a party need not pay while an event of default by the other is continuing.
+
+In: [Lehman Brothers, 2008](/OTC_Learn/product/lehman/)
 
 ### SEF / MTF / OTF {#sef-mtf-otf}
 
@@ -2065,6 +2101,12 @@ In: [Credit Index Option](/OTC_Learn/product/cdxopt/)
 A run of FRAs covering consecutive periods, used where a single contract would leave later periods unhedged.
 
 In: [Forward Rate Agreement](/OTC_Learn/product/fra/)
+
+### Super-senior tranche {#super-senior-tranche}
+
+The most protected layer of a structured portfolio, losing only after every junior tranche is exhausted.
+
+In: [AIG, 2008](/OTC_Learn/product/aig/)
 
 ### Supervision {#supervision}
 
@@ -2378,7 +2420,7 @@ In: [Autocallable Note](/OTC_Learn/product/autocall/)
 
 The case where a counterparty’s probability of default is itself correlated with the dealer’s exposure to it, so the two get worse together rather than independently.
 
-In: [XVA and Counterparty Risk](/OTC_Learn/product/xva/)
+In: [XVA and Counterparty Risk](/OTC_Learn/product/xva/), [AIG, 2008](/OTC_Learn/product/aig/)
 
 ## X {#letter-x}
 
@@ -2736,6 +2778,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Close-out Amount",
+      "description": "The 2002 ISDA valuation standard: what it would cost to replace the terminated trades, determined in good faith.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#close-out-amount"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Close-out netting",
       "description": "Terminating every trade under a Master Agreement together on a default and reducing them to one net figure, rather than settling each on its own.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#close-out-netting"
@@ -2979,6 +3027,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Default fund",
       "description": "The mutualised resource, contributed by all members, used after the defaulter’s own margin and contribution.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#default-fund"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Default management",
+      "description": "A clearing house’s process for hedging and auctioning a failed member’s portfolio, funded first by that member’s margin.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#default-management"
     },
     {
       "@type": "DefinedTerm",
@@ -3780,6 +3834,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Multi-sector CDO",
+      "description": "A CDO whose collateral is other securitised debt, such as mortgage-backed securities, rather than loans.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#multi-sector-cdo"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Multiple",
       "description": "The spread divided by the modelled expected loss — the market’s standard relative value measure.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#multiple"
@@ -4026,6 +4086,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Protection seller",
+      "description": "The party to a credit default swap that pays out on a credit event, in return for a running premium.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#protection-seller"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Publication lag",
       "description": "The fixed number of months between the index month a payment references and the payment date itself — two months on a standard UK RPI swap.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#publication-lag"
@@ -4059,6 +4125,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Quality basis",
       "description": "The gap between the index grade and the crude or products a particular refinery actually handles.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#quality-basis"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Rating trigger",
+      "description": "A clause that lowers a party’s collateral threshold or adds an independent amount when its credit rating falls.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#rating-trigger"
     },
     {
       "@type": "DefinedTerm",
@@ -4278,6 +4350,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Section 2(a)(iii)",
+      "description": "The ISDA condition that a party need not pay while an event of default by the other is continuing.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#section-2-a-iii"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "SEF / MTF / OTF",
       "description": "The regulated electronic venues — Swap Execution Facilities in the US, Multilateral and Organised Trading Facilities in the EU — that a sufficiently standardised derivative is required to trade on rather than being negotiated bilaterally.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#sef-mtf-otf"
@@ -4455,6 +4533,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Strip of FRAs",
       "description": "A run of FRAs covering consecutive periods, used where a single contract would leave later periods unhedged.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#strip-of-fras"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Super-senior tranche",
+      "description": "The most protected layer of a structured portfolio, losing only after every junior tranche is exhausted.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#super-senior-tranche"
     },
     {
       "@type": "DefinedTerm",

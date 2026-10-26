@@ -1,14 +1,14 @@
 ---
 title: "Case Studies"
-description: "Twelve failures worth understanding, in the order they happened, from Metallgesellschaft in 1993 to the gilt crisis of 2022 — each one a mechanism from the free catalogue taken to its conclusion, and most of them a hedge that worked until it had to be funded."
+description: "Fourteen failures worth understanding, in the order they happened, from Metallgesellschaft in 1993 to the gilt crisis of 2022 — each one a mechanism from the free catalogue taken to its conclusion, and most of them a hedge that worked until it had to be funded."
 permalink: /OTC_Learn/category/cases/
 ---
 
 # Case Studies
 
-Twelve failures worth understanding, in the order they happened, from Metallgesellschaft in 1993 to the gilt crisis of 2022 — each one a mechanism from the free catalogue taken to its conclusion, and most of them a hedge that worked until it had to be funded.
+Fourteen failures worth understanding, in the order they happened, from Metallgesellschaft in 1993 to the gilt crisis of 2022 — each one a mechanism from the free catalogue taken to its conclusion, and most of them a hedge that worked until it had to be funded.
 
-12 products, each with a five-step lesson, a worked example and a bank of twelve questions.
+14 products, each with a five-step lesson, a worked example and a bank of twelve questions.
 
 Case Studies is part of the OTC Learn subscription; the 36 products the app shipped with are free.
 
@@ -19,6 +19,8 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
 - [Ashanti Goldfields, 1999](/OTC_Learn/product/ashanti/) — Seven years of production, sold forward
 - [Amaranth, 2006](/OTC_Learn/product/amaranth/) — A spread trade too large to leave
 - [Société Générale, 2008](/OTC_Learn/product/socgen/) — Fictitious hedges, and a €4.9bn exit
+- [Lehman Brothers, 2008](/OTC_Learn/product/lehman/) — Nine hundred thousand trades, closed out at once
+- [AIG, 2008](/OTC_Learn/product/aig/) — Protection that could not pay its collateral calls
 - [The London Whale, 2012](/OTC_Learn/product/whale/) — A hedge that grew into the market it was hedging
 - [The Swiss franc floor, 2015](/OTC_Learn/product/chffloor/) — A guarantee withdrawn in a morning
 - [Archegos, 2021](/OTC_Learn/product/archegos/) — Five banks, one position, and none of them could see it
@@ -33,7 +35,7 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": "Case Studies",
-    "description": "Twelve failures worth understanding, in the order they happened, from Metallgesellschaft in 1993 to the gilt crisis of 2022 — each one a mechanism from the free catalogue taken to its conclusion, and most of them a hedge that worked until it had to be funded.",
+    "description": "Fourteen failures worth understanding, in the order they happened, from Metallgesellschaft in 1993 to the gilt crisis of 2022 — each one a mechanism from the free catalogue taken to its conclusion, and most of them a hedge that worked until it had to be funded.",
     "url": "https://singhalsachin2003.github.io/OTC_Learn/category/cases/",
     "inLanguage": "en",
     "isAccessibleForFree": true,
@@ -43,7 +45,7 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
     },
     "mainEntity": {
       "@type": "ItemList",
-      "numberOfItems": 12,
+      "numberOfItems": 14,
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -97,34 +99,48 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
         {
           "@type": "ListItem",
           "position": 8,
+          "name": "Lehman Brothers, 2008",
+          "description": "Nine hundred thousand trades, closed out at once",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/lehman/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "AIG, 2008",
+          "description": "Protection that could not pay its collateral calls",
+          "url": "https://singhalsachin2003.github.io/OTC_Learn/product/aig/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
           "name": "The London Whale, 2012",
           "description": "A hedge that grew into the market it was hedging",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/whale/"
         },
         {
           "@type": "ListItem",
-          "position": 9,
+          "position": 11,
           "name": "The Swiss franc floor, 2015",
           "description": "A guarantee withdrawn in a morning",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/chffloor/"
         },
         {
           "@type": "ListItem",
-          "position": 10,
+          "position": 12,
           "name": "Archegos, 2021",
           "description": "Five banks, one position, and none of them could see it",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/archegos/"
         },
         {
           "@type": "ListItem",
-          "position": 11,
+          "position": 13,
           "name": "The LME nickel squeeze, 2022",
           "description": "A hedge that could not be delivered into",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/nickel/"
         },
         {
           "@type": "ListItem",
-          "position": 12,
+          "position": 14,
           "name": "The gilt LDI crisis, 2022",
           "description": "Pension hedges that worked, and could not be funded",
           "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ldi/"
