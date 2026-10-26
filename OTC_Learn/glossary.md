@@ -1,12 +1,12 @@
 ---
 title: "OTC derivatives glossary: key terms A to Z"
-description: "400 OTC derivatives terms in plain English, from the 74 products in OTC Learn, each linked to the lesson that teaches it."
+description: "421 OTC derivatives terms in plain English, from the 78 products in OTC Learn, each linked to the lesson that teaches it."
 permalink: /OTC_Learn/glossary/
 ---
 
 # OTC derivatives glossary
 
-400 key terms from the 74 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
+421 key terms from the 78 products in OTC Learn, each linked to the product that teaches it. Where several products use a term, the first definition is shown and every product is listed.
 
 [0–9](#letter-num) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
@@ -43,6 +43,12 @@ In: [Range Accrual Note](/OTC_Learn/product/rangeacc/)
 The window whose ex-dividend dates count — conventionally a single calendar year.
 
 In: [Dividend Swap](/OTC_Learn/product/divswap/)
+
+### Additional tier 1 {#additional-tier-1}
+
+Perpetual bank capital with cancellable coupons, designed to absorb losses before senior creditors.
+
+In: [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/)
 
 ### Additional valuation adjustment {#additional-valuation-adjustment}
 
@@ -134,7 +140,7 @@ In: [Value at Risk](/OTC_Learn/product/valueatrisk/)
 
 A curve where nearby prices exceed distant ones, which makes rolling a long position cost money.
 
-In: [Metallgesellschaft, 1993](/OTC_Learn/product/metallges/)
+In: [Metallgesellschaft, 1993](/OTC_Learn/product/metallges/), [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
 
 ### Barrier {#barrier}
 
@@ -300,6 +306,12 @@ The CDS spread minus the asset swap spread on the same issuer and maturity, nega
 
 In: [Asset Swap](/OTC_Learn/product/assetswap/)
 
+### CET1 ratio {#cet1-ratio}
+
+Common equity tier 1 capital as a share of risk-weighted assets, the core measure of bank solvency.
+
+In: [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/)
+
 ### Clearing member {#clearing-member}
 
 A firm that faces the CCP directly; most market participants access clearing through one rather than joining themselves.
@@ -354,6 +366,12 @@ A repo lender’s demand for more security as the collateral falls, met by selli
 
 In: [Orange County, 1994](/OTC_Learn/product/orange/), [AIG, 2008](/OTC_Learn/product/aig/)
 
+### Commercial paper rate {#commercial-paper-rate}
+
+The short-term rate a large company pays to borrow unsecured in the money market.
+
+In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
+
 ### Concentration threshold {#concentration-threshold}
 
 The size above which a bucket’s weighted sensitivities are scaled up to reflect the cost of liquidating a large position.
@@ -377,6 +395,12 @@ In: [Société Générale, 2008](/OTC_Learn/product/socgen/)
 The opposite shape, where distant prices exceed nearby ones, and a long roll earns rather than costs.
 
 In: [Metallgesellschaft, 1993](/OTC_Learn/product/metallges/)
+
+### Contingent convertible {#contingent-convertible}
+
+A bond that converts into equity or is written down when a specified trigger is hit.
+
+In: [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/)
 
 ### Contingent principal {#contingent-principal}
 
@@ -467,6 +491,12 @@ In: [Crack Spread Swap](/OTC_Learn/product/crackspread/)
 The defined trigger — bankruptcy, failure to pay, restructuring and, for financials, governmental intervention — that terminates the contract.
 
 In: [Credit Default Swap](/OTC_Learn/product/cds/)
+
+### Creditor hierarchy {#creditor-hierarchy}
+
+The order in which claims on a failed firm absorb losses, normally equity first.
+
+In: [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/)
 
 ### CRIF {#crif}
 
@@ -620,6 +650,12 @@ Desks trading instruments that track their underlying one-for-one, such as index
 
 In: [Société Générale, 2008](/OTC_Learn/product/socgen/)
 
+### Derecognition {#derecognition}
+
+Removing an asset from the balance sheet because accounting rules treat it as sold.
+
+In: [MF Global, 2011](/OTC_Learn/product/mfglobal/)
+
 ### Discount curve {#discount-curve}
 
 The curve used to bring every cash flow on a trade, fixed and floating alike, back to a present value.
@@ -674,6 +710,12 @@ The contribution dividends make to an index level, the unit an index dividend sw
 
 In: [Dividend Swap](/OTC_Learn/product/divswap/)
 
+### Dominant position {#dominant-position}
+
+A holding of futures and deliverable stock large enough to influence the price and spreads of a market.
+
+In: [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
+
 ### Doom loop {#doom-loop}
 
 A self-reinforcing spiral where meeting a call requires selling the asset whose fall caused the call.
@@ -723,6 +765,12 @@ In: [Basis Swap](/OTC_Learn/product/basisswap/)
 The credit default swap inside the note, on which the investor is the protection seller.
 
 In: [Credit-Linked Note](/OTC_Learn/product/cln/)
+
+### Embedded option {#embedded-option}
+
+An option built into another instrument’s terms, often visible only as an unusually attractive price.
+
+In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
 
 ### Enhanced coupon {#enhanced-coupon}
 
@@ -954,6 +1002,12 @@ The periodic payment between longs and shorts that keeps a perpetual contract cl
 
 In: [Perpetual Swap](/OTC_Learn/product/perp/)
 
+### Futures commission merchant {#futures-commission-merchant}
+
+A US broker that holds customer money for futures trading and must keep it segregated.
+
+In: [MF Global, 2011](/OTC_Learn/product/mfglobal/)
+
 ### FVA {#fva}
 
 Funding valuation adjustment: the cost of funding the uncollateralised part of a trade’s exposure over its life.
@@ -1022,7 +1076,7 @@ In: [Central Clearing](/OTC_Learn/product/clearing/)
 
 The portion of the exposure that must be covered by collateral, which fixes how much leverage the trade carries.
 
-In: [Total Return Swap](/OTC_Learn/product/trs/), [Collateral and the CSA](/OTC_Learn/product/collateral/)
+In: [Total Return Swap](/OTC_Learn/product/trs/), [Collateral and the CSA](/OTC_Learn/product/collateral/), [MF Global, 2011](/OTC_Learn/product/mfglobal/)
 
 ### Headline coupon {#headline-coupon}
 
@@ -1116,6 +1170,12 @@ Testing front-office marks against prices and inputs from sources the desk does 
 
 In: [Price Verification and Prudent Valuation](/OTC_Learn/product/prudentval/)
 
+### Independent valuation {#independent-valuation}
+
+A price for a position obtained without relying on the dealer that sold it.
+
+In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
+
 ### Index arbitrage {#index-arbitrage}
 
 Trading the same index future on two exchanges for a small price difference, with little directional risk.
@@ -1198,6 +1258,12 @@ Risk reported bucket by bucket along the curve, rather than as one parallel-shif
 
 In: [DV01 and Rate Risk](/OTC_Learn/product/dv01/)
 
+### Key-person risk {#key-person-risk}
+
+Dependence on one individual whose absence, error or misconduct the organisation cannot absorb.
+
+In: [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
+
 ### Knock-in {#knock-in}
 
 A barrier option that only becomes a live option once the barrier is reached.
@@ -1236,6 +1302,12 @@ In: [Accumulator](/OTC_Learn/product/accum/)
 
 ## L {#letter-l}
 
+### Lending rule {#lending-rule}
+
+An exchange requirement that a dominant holder lend metal to the market at a capped premium.
+
+In: [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
+
 ### Leverage {#leverage}
 
 The ratio of position value to margin posted, which magnifies gains and losses alike.
@@ -1247,6 +1319,12 @@ In: [Contract for Difference](/OTC_Learn/product/cfd/)
 Assets against capital, and so how far a position can move before the capital is gone.
 
 In: [Long-Term Capital Management, 1998](/OTC_Learn/product/ltcm/)
+
+### Leveraged swap {#leveraged-swap}
+
+A swap whose payments move by a multiple of the change in a market rate, rather than one-for-one.
+
+In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
 
 ### Liability-driven investment {#liability-driven-investment}
 
@@ -1476,6 +1554,12 @@ The run of trading days whose daily returns feed the realised variance calculati
 
 In: [Variance Swap](/OTC_Learn/product/varswap/)
 
+### Off-book account {#off-book-account}
+
+A trading account kept outside the firm’s official records, where losses can be hidden.
+
+In: [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
+
 ### OIS discounting {#ois-discounting}
 
 Discounting off a curve built from overnight index swaps, adopted after 2008 because an overnight rate carries negligible term credit risk — the property a discount curve needs.
@@ -1616,6 +1700,12 @@ The bank service providing financing, execution and custody to a fund, and the m
 
 In: [Archegos, 2021](/OTC_Learn/product/archegos/)
 
+### Principal risk {#principal-risk}
+
+Risk a firm takes with its own capital, as opposed to acting as agent for its clients.
+
+In: [MF Global, 2011](/OTC_Learn/product/mfglobal/)
+
 ### Procyclicality {#procyclicality}
 
 The tendency of risk measures to rise together in a sell-off, forcing simultaneous deleveraging.
@@ -1691,6 +1781,12 @@ The gap between the index grade and the crude or products a particular refinery 
 In: [Crack Spread Swap](/OTC_Learn/product/crackspread/)
 
 ## R {#letter-r}
+
+### Rate lock {#rate-lock}
+
+Fixing a formula-driven spread at a given date, after which it no longer moves with the market.
+
+In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
 
 ### Rating trigger {#rating-trigger}
 
@@ -1793,6 +1889,12 @@ In: [SA-CCR and CVA Capital](/OTC_Learn/product/saccr/)
 The premium a particular bond commands in the repo market, which cheapens the cost of funding it and tightens its asset swap spread.
 
 In: [Asset Swap](/OTC_Learn/product/assetswap/)
+
+### Repo-to-maturity {#repo-to-maturity}
+
+A repurchase agreement that runs until the underlying bond matures, so the financing never needs rolling.
+
+In: [MF Global, 2011](/OTC_Learn/product/mfglobal/)
 
 ### Repurchase agreement {#repurchase-agreement}
 
@@ -1932,7 +2034,7 @@ In: [Execution and Reporting](/OTC_Learn/product/execution/)
 
 Holding initial margin with an independent custodian so it is protected if the collecting party defaults.
 
-In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/)
+In: [The Uncleared Margin Rules](/OTC_Learn/product/umr/), [MF Global, 2011](/OTC_Learn/product/mfglobal/)
 
 ### Segregation of duties {#segregation-of-duties}
 
@@ -2054,6 +2156,12 @@ The reduced margin charged on offsetting legs, on the assumption that they move 
 
 In: [Amaranth, 2006](/OTC_Learn/product/amaranth/)
 
+### Squeeze {#squeeze}
+
+Holders of short positions forced to buy or pay to roll because deliverable supply is controlled by others.
+
+In: [Sumitomo copper, 1996](/OTC_Learn/product/sumitomo/)
+
 ### Stack and roll {#stack-and-roll}
 
 Holding the whole hedge in nearby contracts and rolling it forward, because distant months are not liquid enough.
@@ -2101,6 +2209,12 @@ In: [Credit Index Option](/OTC_Learn/product/cdxopt/)
 A run of FRAs covering consecutive periods, used where a single contract would leave later periods unhedged.
 
 In: [Forward Rate Agreement](/OTC_Learn/product/fra/)
+
+### Suitability {#suitability}
+
+Whether a product fits a client’s understanding, objectives and capacity to bear its risk.
+
+In: [Bankers Trust and Procter & Gamble, 1994](/OTC_Learn/product/bankerstrust/)
 
 ### Super-senior tranche {#super-senior-tranche}
 
@@ -2360,6 +2474,12 @@ A size category — Capesize, Panamax, Supramax — whose rates move together an
 
 In: [Freight Forward Agreement](/OTC_Learn/product/ffa/)
 
+### Viability event {#viability-event}
+
+A trigger based on a regulator’s judgment that a bank cannot survive without extraordinary support.
+
+In: [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/)
+
 ### Volatility skew {#volatility-skew}
 
 The pattern of implied volatility across different strikes, which a flat single-number vol does not capture and a risk reversal is the standard way to measure.
@@ -2415,6 +2535,12 @@ In: [FX Forward](/OTC_Learn/product/fxfwd/)
 A basket convention under which every trigger and barrier test is run on the weakest of the underlyings.
 
 In: [Autocallable Note](/OTC_Learn/product/autocall/)
+
+### Write-down {#write-down}
+
+Reducing a bond’s principal, in part or in full, without giving holders anything in exchange.
+
+In: [Credit Suisse AT1 bonds, 2023](/OTC_Learn/product/csat1/)
 
 ### Wrong-way risk {#wrong-way-risk}
 
@@ -2511,6 +2637,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Accrual period",
       "description": "The window whose ex-dividend dates count — conventionally a single calendar year.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#accrual-period"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Additional tier 1",
+      "description": "Perpetual bank capital with cancellable coupons, designed to absorb losses before senior creditors.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#additional-tier-1"
     },
     {
       "@type": "DefinedTerm",
@@ -2766,6 +2898,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "CET1 ratio",
+      "description": "Common equity tier 1 capital as a share of risk-weighted assets, the core measure of bank solvency.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#cet1-ratio"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Clearing member",
       "description": "A firm that faces the CCP directly; most market participants access clearing through one rather than joining themselves.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#clearing-member"
@@ -2820,6 +2958,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Commercial paper rate",
+      "description": "The short-term rate a large company pays to borrow unsecured in the money market.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#commercial-paper-rate"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Concentration threshold",
       "description": "The size above which a bucket’s weighted sensitivities are scaled up to reflect the cost of liquidating a large position.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#concentration-threshold"
@@ -2841,6 +2985,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Contango",
       "description": "The opposite shape, where distant prices exceed nearby ones, and a long roll earns rather than costs.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#contango"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Contingent convertible",
+      "description": "A bond that converts into equity or is written down when a specified trigger is hit.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#contingent-convertible"
     },
     {
       "@type": "DefinedTerm",
@@ -2931,6 +3081,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Credit event",
       "description": "The defined trigger — bankruptcy, failure to pay, restructuring and, for financials, governmental intervention — that terminates the contract.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#credit-event"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Creditor hierarchy",
+      "description": "The order in which claims on a failed firm absorb losses, normally equity first.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#creditor-hierarchy"
     },
     {
       "@type": "DefinedTerm",
@@ -3084,6 +3240,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Derecognition",
+      "description": "Removing an asset from the balance sheet because accounting rules treat it as sold.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#derecognition"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Discount curve",
       "description": "The curve used to bring every cash flow on a trade, fixed and floating alike, back to a present value.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#discount-curve"
@@ -3138,6 +3300,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Dominant position",
+      "description": "A holding of futures and deliverable stock large enough to influence the price and spreads of a market.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#dominant-position"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Doom loop",
       "description": "A self-reinforcing spiral where meeting a call requires selling the asset whose fall caused the call.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#doom-loop"
@@ -3183,6 +3351,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Embedded CDS",
       "description": "The credit default swap inside the note, on which the investor is the protection seller.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#embedded-cds"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Embedded option",
+      "description": "An option built into another instrument’s terms, often visible only as an unusually attractive price.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#embedded-option"
     },
     {
       "@type": "DefinedTerm",
@@ -3414,6 +3588,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Futures commission merchant",
+      "description": "A US broker that holds customer money for futures trading and must keep it segregated.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#futures-commission-merchant"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "FVA",
       "description": "Funding valuation adjustment: the cost of funding the uncollateralised part of a trade’s exposure over its life.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#fva"
@@ -3570,6 +3750,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Independent valuation",
+      "description": "A price for a position obtained without relying on the dealer that sold it.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#independent-valuation"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Index arbitrage",
       "description": "Trading the same index future on two exchanges for a small price difference, with little directional risk.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#index-arbitrage"
@@ -3648,6 +3834,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Key-person risk",
+      "description": "Dependence on one individual whose absence, error or misconduct the organisation cannot absorb.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#key-person-risk"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Knock-in",
       "description": "A barrier option that only becomes a live option once the barrier is reached.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#knock-in"
@@ -3684,6 +3876,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Lending rule",
+      "description": "An exchange requirement that a dominant holder lend metal to the market at a capped premium.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#lending-rule"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Leverage",
       "description": "The ratio of position value to margin posted, which magnifies gains and losses alike.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#leverage"
@@ -3693,6 +3891,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Leverage ratio",
       "description": "Assets against capital, and so how far a position can move before the capital is gone.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#leverage-ratio"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Leveraged swap",
+      "description": "A swap whose payments move by a multiple of the change in a market rate, rather than one-for-one.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#leveraged-swap"
     },
     {
       "@type": "DefinedTerm",
@@ -3918,6 +4122,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Off-book account",
+      "description": "A trading account kept outside the firm’s official records, where losses can be hidden.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#off-book-account"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "OIS discounting",
       "description": "Discounting off a curve built from overnight index swaps, adopted after 2008 because an overnight rate carries negligible term credit risk — the property a discount curve needs.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#ois-discounting"
@@ -4056,6 +4266,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Principal risk",
+      "description": "Risk a firm takes with its own capital, as opposed to acting as agent for its clients.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#principal-risk"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Procyclicality",
       "description": "The tendency of risk measures to rise together in a sell-off, forcing simultaneous deleveraging.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#procyclicality"
@@ -4125,6 +4341,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Quality basis",
       "description": "The gap between the index grade and the crude or products a particular refinery actually handles.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#quality-basis"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Rate lock",
+      "description": "Fixing a formula-driven spread at a given date, after which it no longer moves with the market.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#rate-lock"
     },
     {
       "@type": "DefinedTerm",
@@ -4227,6 +4449,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Repo specialness",
       "description": "The premium a particular bond commands in the repo market, which cheapens the cost of funding it and tightens its asset swap spread.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#repo-specialness"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Repo-to-maturity",
+      "description": "A repurchase agreement that runs until the underlying bond matures, so the financing never needs rolling.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#repo-to-maturity"
     },
     {
       "@type": "DefinedTerm",
@@ -4488,6 +4716,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Squeeze",
+      "description": "Holders of short positions forced to buy or pay to roll because deliverable supply is controlled by others.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#squeeze"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Stack and roll",
       "description": "Holding the whole hedge in nearby contracts and rolling it forward, because distant months are not liquid enough.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#stack-and-roll"
@@ -4533,6 +4767,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Strip of FRAs",
       "description": "A run of FRAs covering consecutive periods, used where a single contract would leave later periods unhedged.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#strip-of-fras"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Suitability",
+      "description": "Whether a product fits a client’s understanding, objectives and capacity to bear its risk.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#suitability"
     },
     {
       "@type": "DefinedTerm",
@@ -4788,6 +5028,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     },
     {
       "@type": "DefinedTerm",
+      "name": "Viability event",
+      "description": "A trigger based on a regulator’s judgment that a bank cannot survive without extraordinary support.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#viability-event"
+    },
+    {
+      "@type": "DefinedTerm",
       "name": "Volatility skew",
       "description": "The pattern of implied volatility across different strikes, which a flat single-number vol does not capture and a risk reversal is the standard way to measure.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#volatility-skew"
@@ -4839,6 +5085,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
       "name": "Worst-of",
       "description": "A basket convention under which every trigger and barrier test is run on the weakest of the underlyings.",
       "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#worst-of"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Write-down",
+      "description": "Reducing a bond’s principal, in part or in full, without giving holders anything in exchange.",
+      "url": "https://singhalsachin2003.github.io/OTC_Learn/glossary/#write-down"
     },
     {
       "@type": "DefinedTerm",
