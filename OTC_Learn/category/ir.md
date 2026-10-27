@@ -30,8 +30,9 @@ Products that manage exposure to interest rate movements on loans, bonds and cas
     "inLanguage": "en",
     "isAccessibleForFree": true,
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "mainEntity": {
       "@type": "ItemList",

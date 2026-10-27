@@ -30,8 +30,9 @@ The infrastructure every other product runs through — collateral, clearing, va
     "inLanguage": "en",
     "isAccessibleForFree": true,
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "mainEntity": {
       "@type": "ItemList",

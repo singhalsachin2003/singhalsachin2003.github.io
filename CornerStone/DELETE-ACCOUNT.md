@@ -1,6 +1,6 @@
 # Delete your Cornerstone account
 
-**App:** Cornerstone: Exam Study · **Developer:** Sachin Singhal
+**App:** Cornerstone: Exam Study · **Developer:** Groundlearn
 
 An account in Cornerstone is optional. It exists only to back your study progress up so that
 a reinstall or a new phone does not start you over. If you have never created one, there is

@@ -38,8 +38,9 @@ Risk & the Greeks is part of the OTC Learn subscription; the 36 products the app
     "inLanguage": "en",
     "isAccessibleForFree": true,
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "mainEntity": {
       "@type": "ItemList",

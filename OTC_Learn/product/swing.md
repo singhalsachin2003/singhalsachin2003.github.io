@@ -94,12 +94,14 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     "mainEntityOfPage": "https://singhalsachin2003.github.io/OTC_Learn/product/swing/",
     "url": "https://singhalsachin2003.github.io/OTC_Learn/product/swing/",
     "author": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "about": {
       "@type": "DefinedTerm",

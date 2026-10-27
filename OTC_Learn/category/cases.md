@@ -48,8 +48,9 @@ Case Studies is part of the OTC Learn subscription; the 36 products the app ship
     "inLanguage": "en",
     "isAccessibleForFree": true,
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "mainEntity": {
       "@type": "ItemList",

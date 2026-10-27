@@ -30,8 +30,9 @@ Contracts that hedge or speculate on the price of physical commodities.
     "inLanguage": "en",
     "isAccessibleForFree": true,
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "mainEntity": {
       "@type": "ItemList",

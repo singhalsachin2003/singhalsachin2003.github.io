@@ -95,12 +95,14 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     "mainEntityOfPage": "https://singhalsachin2003.github.io/OTC_Learn/product/cdxopt/",
     "url": "https://singhalsachin2003.github.io/OTC_Learn/product/cdxopt/",
     "author": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "publisher": {
-      "@type": "Person",
-      "name": "Sachin Singhal"
+      "@type": "Organization",
+      "name": "Groundlearn",
+      "url": "https://groundlearn.com/"
     },
     "about": {
       "@type": "DefinedTerm",
