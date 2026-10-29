@@ -31,7 +31,7 @@ Contracts used to hedge or speculate on currency exchange rate movements.
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

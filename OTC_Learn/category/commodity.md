@@ -31,7 +31,7 @@ Contracts that hedge or speculate on the price of physical commodities.
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

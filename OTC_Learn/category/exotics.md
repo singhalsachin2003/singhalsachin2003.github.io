@@ -33,7 +33,7 @@ Exotics is part of the OTC Learn subscription; the 36 products the app shipped w
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

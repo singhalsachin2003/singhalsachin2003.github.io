@@ -31,7 +31,7 @@ Instruments that transfer or hedge the credit/default risk of borrowers.
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

@@ -94,12 +94,12 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
     "url": "https://singhalsachin2003.github.io/OTC_Learn/product/ndf/",
     "author": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "about": {

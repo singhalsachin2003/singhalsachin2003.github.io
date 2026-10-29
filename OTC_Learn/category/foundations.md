@@ -31,7 +31,7 @@ The infrastructure every other product runs through — collateral, clearing, va
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

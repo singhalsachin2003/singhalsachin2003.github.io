@@ -2,7 +2,7 @@
 
 **Last updated: 27 October 2026**
 
-Cornerstone is a study app for CFA® and FRM® candidates, published by Groundlearn.
+Cornerstone is a study app for CFA® and FRM® candidates, published by GroundLearn.
 
 ## The short version
 

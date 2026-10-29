@@ -31,7 +31,7 @@ Products that manage exposure to interest rate movements on loans, bonds and cas
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

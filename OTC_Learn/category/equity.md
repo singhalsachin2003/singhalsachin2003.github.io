@@ -31,7 +31,7 @@ OTC instruments giving synthetic exposure to stocks, baskets, or indices.
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

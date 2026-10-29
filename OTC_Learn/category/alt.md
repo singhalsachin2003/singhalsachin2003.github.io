@@ -33,7 +33,7 @@ Alternative Underlyings is part of the OTC Learn subscription; the 36 products t
     "isAccessibleForFree": true,
     "publisher": {
       "@type": "Organization",
-      "name": "Groundlearn",
+      "name": "GroundLearn",
       "url": "https://groundlearn.com/"
     },
     "mainEntity": {

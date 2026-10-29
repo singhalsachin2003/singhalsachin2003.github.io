@@ -2725,7 +2725,7 @@ Educational content only. Nothing here is financial advice, an offer to trade, o
   "inLanguage": "en",
   "publisher": {
     "@type": "Organization",
-    "name": "Groundlearn",
+    "name": "GroundLearn",
     "url": "https://groundlearn.com/"
   },
   "hasDefinedTerm": [
