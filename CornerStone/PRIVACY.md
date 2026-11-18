@@ -1,6 +1,6 @@
 # Privacy Policy — Cornerstone
 
-**Last updated: 27 October 2026**
+**Last updated: 18 November 2026**
 
 Cornerstone is a study app for CFA® and FRM® candidates, published by GroundLearn.
 
@@ -43,19 +43,22 @@ Cornerstone Plus is an optional subscription that opens the study segments added
 subscription launched. Everything the app contained before that stays free permanently, and
 anyone who had already installed the app keeps all of it permanently.
 
-- **Payment is taken by Google Play.** We never see, receive or store your payment details.
-  Billing, renewal and cancellation are handled entirely by Google under your Play account.
+- **Payment is taken by the store you installed from** — Google Play on Android, the App
+  Store on iPhone. We never see, receive or store your payment details. Billing, renewal and
+  cancellation are handled entirely by Google under your Play account, or by Apple under your
+  Apple Account.
 - **RevenueCat** (RevenueCat, Inc.) is used to check whether a subscription is active. When
   the app asks, it sends an anonymous identifier that RevenueCat itself generates for this
-  installation, together with the purchase receipt Google issued and basic technical details
+  installation, together with the purchase receipt the store issued and basic technical details
   such as the platform, app version and store country. **It is not linked to a name, an email
-  address or a Google account**, and none of your study data is sent.
+  address, a Google account or an Apple Account**, and none of your study data is sent.
 - **If you never open the subscription screen and never subscribe**, no purchase-related
   request is made at all.
 
-**Promotional codes take no payment and involve no third party.** A code is checked against a
-list inside the app and grants access for a fixed number of days. Nothing is transmitted when
-you redeem one.
+**Promotional codes on Android take no payment and involve no third party.** A code is checked
+against a list inside the app and grants access for a fixed number of days. Nothing is
+transmitted when you redeem one. **On iPhone, codes are Apple offer codes**, redeemed on Apple's
+own screen and handled by Apple exactly like a subscription purchase.
 
 ## Accounts and progress backup
 
@@ -73,7 +76,7 @@ lists as study data:
 
 **What is never copied:** your subscription status, any promotional code you have
 redeemed, and anything about your device. Subscription already moves between devices
-through your Google Play account, so it does not need to be here — and keeping it out
+through your Google Play account or Apple Account, so it does not need to be here — and keeping it out
 means nobody can grant themselves paid access by editing their own record.
 
 - **Authentication is by email address and password**, handled by Supabase. We store the
@@ -82,8 +85,8 @@ means nobody can grant themselves paid access by editing their own record.
 - **Your data is locked to your account** at the database level. Every table enforces that
   a row can only be read or written by the account that owns it.
 - **You can sign out at any time**, which leaves everything on the device untouched.
-- **To delete your account and its backup, email the address below** and it will be
-  removed.
+- **To delete your account and its backup**, use Profile → Account → Delete account in the app, or
+  email the address below and it will be removed.
 
 Backup is a best-effort copy rather than a live mirror: the app uploads when it can reach
 the server and carries on normally when it cannot.
@@ -105,12 +108,14 @@ rather than waiting for a store release.
 - **Notifications** — requested only if you switch on the daily study reminder in Profile. It
   schedules a notification locally on your device; nothing is sent to a server. Declining it,
   or revoking it later in system settings, leaves the rest of the app fully functional.
-- **Billing** — declared so that Google Play can present the subscription purchase sheet.
+- **Billing** — declared on Android so that Google Play can present the subscription purchase
+  sheet. On iPhone, purchases use Apple's built-in in-app purchase system and need no
+  permission.
 
 ## Third parties
 
 Cornerstone contains no advertising SDKs, no analytics SDKs, no crash-reporting SDKs and no
-social login. The only third parties that receive anything are Google Play (for payment),
+social login. The only third parties that receive anything are Google Play or Apple (for payment),
 RevenueCat (for entitlement checking), Expo's update service (for updates) and — only if you
 create an account — Supabase (for the progress backup), each strictly as described above.
 

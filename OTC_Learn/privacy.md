@@ -5,7 +5,7 @@ permalink: /OTC_Learn/privacy/
 
 # Privacy Policy for OTC Learn
 
-**Last updated: 25 October 2026**
+**Last updated: 18 November 2026**
 
 OTC Learn is an educational app about over-the-counter derivatives. This policy
 describes what the app does and does not do with your information.
@@ -54,8 +54,9 @@ which processes it on our behalf; their privacy policy is at
 <https://supabase.com/privacy>. Access is restricted so that only your own
 account can read or write your rows.
 
-You can delete the account and everything synced with it by emailing the
-address at the bottom of this policy. Signing out alone does not delete it —
+You can delete the account and everything synced with it in the app, from
+Profile → Account → Delete account, or by emailing the address at the bottom of
+this policy. Signing out alone does not delete it —
 that is the point of it.
 
 ## Crash reporting
@@ -64,13 +65,15 @@ that is the point of it.
 we have no visibility into problems you encounter.
 
 The app contains the Sentry crash-reporting library, but it is inert without a
-configuration key and no released version ships one — the library's own
-`io.sentry.auto-init` flag is set to `false` in the app you install, so it does
-not start itself either.
+configuration key and no released version ships one. On Android the library's
+own `io.sentry.auto-init` flag is set to `false` in the app you install, so it
+does not start itself either; on iPhone the library only starts when the app
+starts it, which it does not do without the key.
 
-If a future version turns it on, this policy and the app's Play Store Data
-safety section will both be updated **before** that version is released, and the
-Data safety section will declare Crash logs. Such a report would contain
+If a future version turns it on, this policy and the app's store privacy
+disclosures (Google Play's Data safety section and the App Store's App Privacy
+details) will be updated **before** that version is released, and both will
+declare crash data. Such a report would contain
 technical information only — the error and where in the code it happened, the
 app version, the device model and OS version — and never your progress, your
 streak, your notes, or your email address. Performance tracing is disabled
@@ -78,19 +81,22 @@ separately and would stay off.
 
 ## Purchases
 
-The app offers optional paid access to most of the catalogue, through Google
-Play Billing and RevenueCat. One category is free to everyone and stays that
+The app offers optional paid access to most of the catalogue, through the store
+you installed it from — Google Play on Android, the App Store on iPhone — and
+RevenueCat. One category is free to everyone and stays that
 way, so the app remains useful indefinitely without buying anything.
 
-If you do buy, the purchase is made by Google Play, and Google — not us —
-handles your payment details. We never see or store a card number. RevenueCat
+If you do buy, the purchase is made by Google Play or by Apple, and they — not
+us — handle your payment details. Offer codes on iPhone are redeemed with Apple
+in the same way. We never see or store a card number. RevenueCat
 records that a purchase happened, against an identifier of its own that is not
 your name or email, so the app can tell whether this device has paid access.
 Their privacy policy is at <https://www.revenuecat.com/privacy>.
 
 **A purchase is not tied to an account.** The app deliberately does not tell
-RevenueCat who you are, even when you are signed in, and Google Play restores a
-purchase through the Google account that made it. Buying therefore requires no
+RevenueCat who you are, even when you are signed in. Google Play restores a
+purchase through the Google account that made it, and the App Store through the
+Apple Account that made it. Buying therefore requires no
 account with us, and signing in reveals nothing about what you have bought.
 
 ## Checking for updates
@@ -130,8 +136,8 @@ receives anything about how you use the app beyond the progress list above.
 ## Changes to this policy
 
 If this policy changes, the "last updated" date above will change with it. Any
-change that affects what leaves your device will be reflected in the app's Play
-Store Data safety section as well.
+change that affects what leaves your device will be reflected in Google Play's
+Data safety section and the App Store's App Privacy details as well.
 
 ## Contact
 
