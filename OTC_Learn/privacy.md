@@ -141,4 +141,4 @@ Data safety section and the App Store's App Privacy details as well.
 
 ## Contact
 
-Questions about this policy: email <contactgroundlearn@gmail.com>.
+Questions about this policy: email <support@groundlearn.com>.

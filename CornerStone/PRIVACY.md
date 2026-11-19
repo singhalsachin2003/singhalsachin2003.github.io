@@ -135,4 +135,4 @@ Professionals.
 
 ## Contact
 
-Questions about this policy: **contactgroundlearn@gmail.com**
+Questions about this policy: **support@groundlearn.com**
