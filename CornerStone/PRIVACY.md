@@ -1,6 +1,6 @@
 # Privacy Policy — Cornerstone
 
-**Last updated: 18 November 2026**
+**Last updated: 19 November 2026**
 
 Cornerstone is a study app for CFA® and FRM® candidates, published by GroundLearn.
 

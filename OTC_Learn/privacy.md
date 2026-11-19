@@ -5,7 +5,7 @@ permalink: /OTC_Learn/privacy/
 
 # Privacy Policy for OTC Learn
 
-**Last updated: 18 November 2026**
+**Last updated: 19 November 2026**
 
 OTC Learn is an educational app about over-the-counter derivatives. This policy
 describes what the app does and does not do with your information.
