@@ -5,7 +5,7 @@ permalink: /OTC_Learn/privacy/
 
 # Privacy Policy for OTC Learn
 
-**Last updated: 19 November 2026**
+**Last updated: 25 November 2026**
 
 OTC Learn is an educational app about over-the-counter derivatives. This policy
 describes what the app does and does not do with your information.
@@ -81,10 +81,10 @@ separately and would stay off.
 
 ## Purchases
 
-The app offers optional paid access to most of the catalogue, through the store
-you installed it from — Google Play on Android, the App Store on iPhone — and
-RevenueCat. One category is free to everyone and stays that
-way, so the app remains useful indefinitely without buying anything.
+The app offers a one-time unlock that opens the whole catalogue and removes
+advertising, through the store you installed it from — Google Play on Android,
+the App Store on iPhone — and RevenueCat. A free sample is open to everyone, so
+the app remains useful without buying anything.
 
 If you do buy, the purchase is made by Google Play or by Apple, and they — not
 us — handle your payment details. Offer codes on iPhone are redeemed with Apple
@@ -121,17 +121,39 @@ above, and only while you are signed in.
 ## Children
 
 OTC Learn is intended for an adult, professional audience learning about
-financial products. It is not directed at children, and it collects no
-information from anyone, including children.
+financial products. It is not directed at children, it collects no information
+from anyone, including children, and its adverts are limited to a general
+audience.
 
-## Advertising and analytics
+## Advertising
 
-The app contains no advertising, no advertising identifiers, and no third-party
-analytics or tracking of any kind. The update check described above is not
-analytics: it asks one question — is there a newer version of the code — and
-carries nothing about how you use the app. Neither the sync service nor the
-purchase service is used to profile you or to advertise to you, and neither
-receives anything about how you use the app beyond the progress list above.
+Until you buy the one-time unlock, the app shows advertising: a small banner on
+the browsing screens, and an occasional full-screen advert after you finish a
+quiz. It never appears in the middle of a lesson or a question. The adverts are
+served by Google AdMob. **Buying the unlock removes them**, and anyone who was
+using the app before advertising was introduced does not see any.
+
+To show an advert, Google's advertising library collects and uses information
+from your device — your IP address, the type and operating-system version of your
+device, the app and its version, and an advertising or device identifier — in
+order to deliver and measure adverts, limit how often you see one, and prevent
+fraud. On Android, adverts may be personalised using your Android advertising ID,
+which you can reset or delete in your phone's settings. **On iPhone the app does
+not ask permission to track you, and requests non-personalised adverts only.**
+Where the law requires it — in the European Economic Area, the United Kingdom and
+some other regions — Google's consent form is shown first, and if you decline, no
+advert is requested. Google's own description of what it collects is at
+<https://policies.google.com/technologies/ads>, and its privacy policy is at
+<https://policies.google.com/privacy>.
+
+**Nothing about your studying is sent to the advertising service** — not your
+progress, your answers, your notes or your email address. The app never asks the
+advertising service to profile you, and no other third-party analytics or
+tracking is used. Neither the sync service nor the purchase service is used to
+profile you or to advertise to you, and neither receives anything about how you
+use the app beyond what is described above. The update check described above is
+not analytics: it asks one question — is there a newer version of the code — and
+carries nothing about how you use the app.
 
 ## Changes to this policy
 
