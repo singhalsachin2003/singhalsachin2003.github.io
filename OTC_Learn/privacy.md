@@ -16,7 +16,7 @@ OTC Learn works with no account at all, which is how it has always worked and
 how it still works if you never sign in. Everything below about what stays on
 your device applies in full to an app you never sign into.
 
-If you *choose* to create an account, we ask for an email address and a password
+If you _choose_ to create an account, we ask for an email address and a password
 and nothing else — no phone number, location, contacts or photos. The account
 exists for one purpose: so your progress survives reinstalling the app or
 changing phone. You can sign out at any time, which leaves everything on your
@@ -137,9 +137,7 @@ To show an advert, Google's advertising library collects and uses information
 from your device — your IP address, the type and operating-system version of your
 device, the app and its version, and an advertising or device identifier — in
 order to deliver and measure adverts, limit how often you see one, and prevent
-fraud. On Android, adverts may be personalised using your Android advertising ID,
-which you can reset or delete in your phone's settings. **On iPhone the app does
-not ask permission to track you, and requests non-personalised adverts only.**
+fraud. The app requests **non-personalised adverts only**, on both Android and iPhone, so your adverts are not tailored to your interests. On iPhone it does not ask permission to track you. On Android you can reset or delete your advertising ID in your phone's settings.
 Where the law requires it — in the European Economic Area, the United Kingdom and
 some other regions — Google's consent form is shown first, and if you decline, no
 advert is requested. Google's own description of what it collects is at

@@ -22,16 +22,16 @@ All of the following is written to your device's local application storage. **Wi
 account it stays there**, and creating one copies across only the study data identified
 in the section on backup below:
 
-| Data | Purpose |
-| --- | --- |
-| Chosen exam, level and Level III pathway | To show the right syllabus |
-| Topic mastery percentages | To track progress |
-| Review queue (question ids and due dates) | Spaced repetition scheduling |
-| Bookmarked cards and questions | To let you find them again |
-| Study day history | Streak counting |
-| Question and accuracy counts | Profile statistics |
-| Display name | Greeting on the home screen |
-| App settings (reminder, timed quizzes, list style) | Preferences |
+| Data                                                        | Purpose                            |
+| ----------------------------------------------------------- | ---------------------------------- |
+| Chosen exam, level and Level III pathway                    | To show the right syllabus         |
+| Topic mastery percentages                                   | To track progress                  |
+| Review queue (question ids and due dates)                   | Spaced repetition scheduling       |
+| Bookmarked cards and questions                              | To let you find them again         |
+| Study day history                                           | Streak counting                    |
+| Question and accuracy counts                                | Profile statistics                 |
+| Display name                                                | Greeting on the home screen        |
+| App settings (reminder, timed quizzes, list style)          | Preferences                        |
 | Whether the one-time unlock or a promotional code is active | To unlock paid topic areas offline |
 
 This data is removed when you uninstall the app or clear its storage from system settings.
@@ -114,10 +114,7 @@ anyone who was using Cornerstone before advertising was introduced does not see 
 To show an advert, Google's advertising library collects and uses information from your
 device — your IP address, the type and operating-system version of your device, the app
 and its version, and an advertising or device identifier — in order to deliver and measure
-adverts, limit how often you see one, and prevent fraud. On Android, adverts may be
-personalised using your Android advertising ID, which you can reset or delete in your
-phone's settings. **On iPhone the app does not ask permission to track you, and requests
-non-personalised adverts only.** Where the law requires it — in the European Economic Area,
+adverts, limit how often you see one, and prevent fraud. The app requests **non-personalised adverts only**, on both Android and iPhone, so your adverts are not tailored to your interests. On iPhone it does not ask permission to track you. On Android you can reset or delete your advertising ID in your phone's settings. Where the law requires it — in the European Economic Area,
 the United Kingdom and some other regions — Google's consent form is shown first, and if
 you decline, no advert is requested. Google describes what it collects at
 <https://policies.google.com/technologies/ads>, and its privacy policy is at
